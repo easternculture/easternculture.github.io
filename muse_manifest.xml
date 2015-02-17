@@ -1,0 +1,113 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424213490025">
+  <folder name="css">
+    <file name="site_global.css" crc="3992363387"/>
+    <file name="master_dark.css" crc="3921929301" ref="massage:learning"/>
+    <file name="master_green.css" crc="454594737" ref="index:contact"/>
+    <file name="index.css" crc="3782890698" ref="index"/>
+    <file name="massage.css" crc="4007405385" ref="massage"/>
+    <file name="contact.css" crc="4142175053" ref="contact"/>
+    <file name="learning.css" crc="22395180" ref="learning"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:learning:massage:contact"/>
+    <file name="museutils.js" crc="3777594392" ref="index:learning:massage:contact"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:learning:massage:contact"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:learning:massage:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index:massage"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:learning"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:learning:massage:contact"/>
+    <file name="webpro.js" crc="474087315" ref="learning:massage"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="learning:massage"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="learning:massage"/>
+    <file name="touchswipe.js" crc="100683906" ref="learning:massage"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="massage"/>
+  </folder>
+  <folder name="images">
+    <file name="grey.jpg" crc="34851488" ref="index:massage"/>
+    <file name="u228_top_left.png" crc="176337605" ref="index:contact"/>
+    <file name="u228_top_right.png" crc="126500050" ref="index:contact"/>
+    <file name="u228_top_mid.png" crc="4044630127" ref="index:contact"/>
+    <file name="u228_mid_left.png" crc="3792429201" ref="index:contact"/>
+    <file name="u228_mid_right.png" crc="525191538" ref="index:contact"/>
+    <file name="u228_center.png" crc="147519773" ref="index:contact"/>
+    <file name="u228_bot_left.png" crc="416076100" ref="index:contact"/>
+    <file name="u228_bot_right.png" crc="3983424594" ref="index:contact"/>
+    <file name="u228_bot_mid.png" crc="100658283" ref="index:contact"/>
+    <file name="u1003.png" crc="3905378406" ref="index:contact"/>
+    <file name="u1003-r.png" crc="4047291703" ref="index:contact"/>
+    <file name="u1005.png" crc="215783924" ref="index:contact"/>
+    <file name="u1005-r.png" crc="4142017309" ref="index:contact"/>
+    <file name="u1007.png" crc="4061483457" ref="index:contact"/>
+    <file name="u1007-r.png" crc="225994719" ref="index:contact"/>
+    <file name="u1009.png" crc="112285105" ref="index:contact"/>
+    <file name="u1009-r.png" crc="531155910" ref="index:contact"/>
+    <file name="u1011.png" crc="21032763" ref="index:contact"/>
+    <file name="u1011-r.png" crc="4291250864" ref="index:contact"/>
+    <file name="logo.jpg" crc="3949038576" ref="index"/>
+    <file name="tui_na_bbbacupuncture-u1113-fr.jpg" crc="4192849886" ref="index"/>
+    <file name="lamps-lanterns-chinese-characters-photo-wallpaper-1680x1050-u1115-fr.jpg" crc="482307503" ref="index"/>
+    <file name="tai-chi-tree-u1116-fr.jpg" crc="3821917332" ref="index"/>
+    <file name="redwoods.jpg" crc="3959821988" ref="index"/>
+    <file name="massage-background-mid1183x114.jpg" crc="445206318" ref="index"/>
+    <file name="u1574_top_left.png" crc="224195567" ref="index:contact"/>
+    <file name="u1574_top_right.png" crc="315661100" ref="index:contact"/>
+    <file name="u1574_top_mid.png" crc="196995905" ref="index:contact"/>
+    <file name="u1574_mid_left.png" crc="165218327" ref="index:contact"/>
+    <file name="u1574_mid_right.png" crc="123344526" ref="index:contact"/>
+    <file name="u1574_center.png" crc="3789419805" ref="index:contact"/>
+    <file name="u1574_bot_left.png" crc="4048763027" ref="index:contact"/>
+    <file name="u1574_bot_right.png" crc="4164723450" ref="index:contact"/>
+    <file name="u1574_bot_mid.png" crc="3852621757" ref="index:contact"/>
+    <file name="background.jpg" crc="4286134744" ref="learning"/>
+    <file name="u86_top_left.png" crc="405303315" ref="learning:massage"/>
+    <file name="u86_top_right.png" crc="4000707157" ref="learning:massage"/>
+    <file name="u86_top_mid.png" crc="289363380" ref="learning:massage"/>
+    <file name="u86_mid_left.png" crc="19160269" ref="learning:massage"/>
+    <file name="u86_mid_right.png" crc="415130008" ref="learning:massage"/>
+    <file name="u86_center.png" crc="375142418" ref="learning:massage"/>
+    <file name="u86_bot_left.png" crc="219504864" ref="learning:massage"/>
+    <file name="u86_bot_right.png" crc="221284066" ref="learning:massage"/>
+    <file name="u86_bot_mid.png" crc="155587792" ref="learning:massage"/>
+    <file name="u988.png" crc="4232393013" ref="learning:massage"/>
+    <file name="u988-r.png" crc="492656305" ref="learning:massage"/>
+    <file name="u990.png" crc="3845180874" ref="learning:massage"/>
+    <file name="u990-r.png" crc="247845567" ref="learning:massage"/>
+    <file name="u992.png" crc="3927160148" ref="learning:massage"/>
+    <file name="u992-r.png" crc="190984506" ref="learning:massage"/>
+    <file name="u994.png" crc="4243739413" ref="learning:massage"/>
+    <file name="u994-r.png" crc="3815872345" ref="learning:massage"/>
+    <file name="u996.png" crc="3964461117" ref="learning:massage"/>
+    <file name="u996-r.png" crc="4025067090" ref="learning:massage"/>
+    <file name="chess_3707322819_295450f641_o-crop-u1766.jpg" crc="88042289" ref="learning"/>
+    <file name="blank.gif" crc="4208392903" ref="learning"/>
+    <file name="tia_chi_sunrise_by_whitewolf_ont_ca-d3cjgic-crop-u1963.jpg" crc="4216097226" ref="learning"/>
+    <file name="lamps-lanterns-chinese-characters-photo-wallpaper-1680x1050-crop-u1975.jpg" crc="241662917" ref="learning"/>
+    <file name="arrow_left.png" crc="117384309" ref="learning"/>
+    <file name="arrow_right.png" crc="3760641105" ref="learning"/>
+    <file name="loading.gif" crc="3815509949" ref="learning"/>
+    <file name="kid_writing_chinese_on_a_board.jpg" crc="3868212425" ref="learning"/>
+    <file name="tai-chi-tree-u831-fr.jpg" crc="4109031071" ref="learning"/>
+    <file name="u547_top_left.png" crc="224195567" ref="learning:massage"/>
+    <file name="u547_top_right.png" crc="315661100" ref="learning:massage"/>
+    <file name="u547_top_mid.png" crc="196995905" ref="learning:massage"/>
+    <file name="u547_mid_left.png" crc="165218327" ref="learning:massage"/>
+    <file name="u547_mid_right.png" crc="123344526" ref="learning:massage"/>
+    <file name="u547_center.png" crc="3789419805" ref="learning:massage"/>
+    <file name="u547_bot_left.png" crc="4048763027" ref="learning:massage"/>
+    <file name="u547_bot_right.png" crc="4164723450" ref="learning:massage"/>
+    <file name="u547_bot_mid.png" crc="3852621757" ref="learning:massage"/>
+    <file name="swedish-massage--u1068-fr.png" crc="4063026184" ref="massage"/>
+    <file name="deeptissue-u1069-fr.jpg" crc="233393436" ref="massage"/>
+    <file name="hotstone-u1070-fr.jpg" crc="3919393446" ref="massage"/>
+    <file name="footmassage-u1071-fr.jpg" crc="3805299745" ref="massage"/>
+    <file name="tui_na_bbbacupuncture121x91.jpg" crc="199818602" ref="massage"/>
+    <file name="tuina_symbol-300x300.jpg" crc="525295389" ref="massage"/>
+    <file name="bodyguasha.jpg" crc="66670198" ref="massage"/>
+    <file name="chinese_meridians.jpg" crc="4269817021" ref="massage"/>
+    <file name="cupping-54549152731d2.jpg" crc="461887892" ref="massage"/>
+  </folder>
+  <file name="index.html" crc="81336677" mt="1424213477107" redirect="true"/>
+  <file name="learning.html" crc="356754471" mt="1424213244258" redirect="true"/>
+  <file name="massage.html" crc="412797176" mt="1424213268754" redirect="true"/>
+  <file name="contact.html" crc="4051920087" mt="1424213284804" redirect="true"/>
+</manifest>
