@@ -1,10 +1,10 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424219888940">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424221921714">
   <folder name="css">
-    <file name="site_global.css" crc="3992363387"/>
+    <file name="site_global.css" crc="4177152335"/>
     <file name="master_dark.css" crc="386986300" ref="massage:learning"/>
     <file name="master_green.css" crc="454594737" ref="index:contact"/>
     <file name="index.css" crc="3782890698" ref="index"/>
-    <file name="massage.css" crc="206720492" ref="massage"/>
+    <file name="massage.css" crc="25275213" ref="massage"/>
     <file name="contact.css" crc="4142175053" ref="contact"/>
     <file name="learning.css" crc="3871940826" ref="learning"/>
   </folder>
@@ -58,7 +58,7 @@
     <file name="u1574_bot_left.png" crc="4048763027" ref="index:contact"/>
     <file name="u1574_bot_right.png" crc="4164723450" ref="index:contact"/>
     <file name="u1574_bot_mid.png" crc="3852621757" ref="index:contact"/>
-    <file name="background.jpg" crc="4286134744" ref="learning"/>
+    <file name="background.jpg" crc="281572297" ref="learning"/>
     <file name="u86_top_left.png" crc="405303315" ref="learning:massage"/>
     <file name="u86_top_right.png" crc="4000707157" ref="learning:massage"/>
     <file name="u86_top_mid.png" crc="289363380" ref="learning:massage"/>
@@ -106,8 +106,8 @@
     <file name="chinese_meridians.jpg" crc="4269817021" ref="massage"/>
     <file name="cupping-54549152731d2.jpg" crc="461887892" ref="massage"/>
   </folder>
-  <file name="index.html" crc="435159122" mt="1424219105027" redirect="true"/>
-  <file name="learning.html" crc="116877219" mt="1424219148534" redirect="true"/>
-  <file name="massage.html" crc="3893118757" mt="1424219148535" redirect="true"/>
-  <file name="contact.html" crc="3866288368" mt="1424219105028" redirect="true"/>
+  <file name="index.html" crc="413427702" mt="1424221497976" redirect="true"/>
+  <file name="learning.html" crc="4055754695" mt="1424221537874" redirect="true"/>
+  <file name="massage.html" crc="217863863" mt="1424221867619" redirect="true"/>
+  <file name="contact.html" crc="3987582788" mt="1424221571062" redirect="true"/>
 </manifest>

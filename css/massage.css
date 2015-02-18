@@ -1,12 +1,12 @@
 .version.massage /* version checker */
 {
-	color: #00000C;
-	background-color: #524DEC;
+	color: #000001;
+	background-color: #81AB4D;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/grey.jpg") repeat left top scroll;
+	background: #005518 url("../images/grey.jpg") repeat left top scroll;
 }
 
 #page
@@ -461,7 +461,6 @@
 	position: absolute;
 	width: 915px;
 	top: 199px;
-	left: 1px;
 }
 
 #u1073popup
@@ -478,6 +477,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 1px;
 }
 
 #u1081-6
@@ -504,7 +504,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 925px;
+	left: 926px;
 }
 
 #u1074
@@ -518,7 +518,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -4px;
-	left: -1px;
 }
 
 #u1531
@@ -593,7 +592,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: -1px;
 }
 
 #u1083-6
@@ -620,7 +618,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: -1px;
 }
 
 #u1079-6
