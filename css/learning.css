@@ -1,7 +1,7 @@
 .version.learning /* version checker */
 {
-	color: #000001;
-	background-color: #55B92C;
+	color: #0000E6;
+	background-color: #C920DA;
 }
 
 .html
@@ -284,7 +284,7 @@
 
 #u981-4
 {
-	z-index: 133;
+	z-index: 132;
 	width: 620px;
 	min-height: 49px;
 	background-color: transparent;
@@ -353,7 +353,7 @@
 
 #slideshowu673
 {
-	z-index: 56;
+	z-index: 55;
 	width: 0.01px;
 	height: 319px;
 	left: -16px;
@@ -372,12 +372,12 @@
 
 #u675popup
 {
-	z-index: 57;
+	z-index: 56;
 }
 
 #u1766
 {
-	z-index: 58;
+	z-index: 57;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -396,7 +396,7 @@
 
 #u1963
 {
-	z-index: 60;
+	z-index: 59;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -414,7 +414,7 @@
 
 #u1975
 {
-	z-index: 62;
+	z-index: 61;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -460,7 +460,7 @@
 
 #u689-3popup
 {
-	z-index: 64;
+	z-index: 63;
 }
 
 #u674-3
@@ -494,7 +494,7 @@
 
 #u674-3popup
 {
-	z-index: 67;
+	z-index: 66;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -509,7 +509,7 @@
 
 #u733-6
 {
-	z-index: 70;
+	z-index: 69;
 	width: 857px;
 	min-height: 64px;
 	background-color: transparent;
@@ -526,7 +526,7 @@
 
 #u745
 {
-	z-index: 120;
+	z-index: 119;
 	width: 910px;
 	height: 2px;
 	border-color: #000000;
@@ -538,7 +538,7 @@
 
 #u746-4
 {
-	z-index: 114;
+	z-index: 113;
 	width: 604px;
 	min-height: 38px;
 	background-color: transparent;
@@ -547,14 +547,14 @@
 	position: relative;
 }
 
-#pu1999-4
+#pu1999-3
 {
 	width: 0.01px;
 	margin-left: 22px;
 	margin-top: 5px;
 }
 
-#u1999-4
+#u1999-3
 {
 	z-index: 52;
 	width: 422px;
@@ -566,7 +566,7 @@
 
 #u734
 {
-	z-index: 118;
+	z-index: 117;
 	width: 604px;
 	height: 246px;
 	border-color: #000000;
@@ -578,7 +578,7 @@
 
 #u831
 {
-	z-index: 119;
+	z-index: 118;
 	width: 292px;
 	height: 246px;
 	border-color: #000000;
@@ -598,7 +598,7 @@
 
 #u747-38
 {
-	z-index: 76;
+	z-index: 75;
 	width: 583px;
 	min-height: 469px;
 	background-color: transparent;
@@ -618,7 +618,7 @@
 
 #u748
 {
-	z-index: 121;
+	z-index: 120;
 	width: 291px;
 	border-width: 1px;
 	border-style: solid;
@@ -633,7 +633,7 @@
 
 #u829-11
 {
-	z-index: 122;
+	z-index: 121;
 	width: 236px;
 	min-height: 287px;
 	background-color: transparent;
@@ -646,11 +646,12 @@
 
 #u2002-4
 {
-	z-index: 137;
+	z-index: 136;
 	width: 422px;
 	min-height: 24px;
 	background-color: transparent;
 	margin-left: 290px;
+	margin-top: 12px;
 	position: relative;
 }
 
