@@ -1,12 +1,12 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424221921714">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424295162528">
   <folder name="css">
-    <file name="site_global.css" crc="4177152335"/>
-    <file name="master_dark.css" crc="386986300" ref="massage:learning"/>
-    <file name="master_green.css" crc="454594737" ref="index:contact"/>
-    <file name="index.css" crc="3782890698" ref="index"/>
-    <file name="massage.css" crc="25275213" ref="massage"/>
-    <file name="contact.css" crc="4142175053" ref="contact"/>
-    <file name="learning.css" crc="3871940826" ref="learning"/>
+    <file name="site_global.css" crc="3992363387"/>
+    <file name="master_dark.css" crc="340581623" ref="massage:learning"/>
+    <file name="master_green.css" crc="3878648649" ref="index:contact"/>
+    <file name="index.css" crc="240481197" ref="index"/>
+    <file name="massage.css" crc="4126911611" ref="massage"/>
+    <file name="contact.css" crc="4064385974" ref="contact"/>
+    <file name="learning.css" crc="523708294" ref="learning"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:learning:massage:contact"/>
@@ -59,15 +59,15 @@
     <file name="u1574_bot_right.png" crc="4164723450" ref="index:contact"/>
     <file name="u1574_bot_mid.png" crc="3852621757" ref="index:contact"/>
     <file name="background.jpg" crc="281572297" ref="learning"/>
-    <file name="u86_top_left.png" crc="405303315" ref="learning:massage"/>
-    <file name="u86_top_right.png" crc="4000707157" ref="learning:massage"/>
-    <file name="u86_top_mid.png" crc="289363380" ref="learning:massage"/>
-    <file name="u86_mid_left.png" crc="19160269" ref="learning:massage"/>
-    <file name="u86_mid_right.png" crc="415130008" ref="learning:massage"/>
-    <file name="u86_center.png" crc="375142418" ref="learning:massage"/>
-    <file name="u86_bot_left.png" crc="219504864" ref="learning:massage"/>
-    <file name="u86_bot_right.png" crc="221284066" ref="learning:massage"/>
-    <file name="u86_bot_mid.png" crc="155587792" ref="learning:massage"/>
+    <file name="u86_top_left.png" crc="193558118" ref="learning:massage"/>
+    <file name="u86_top_right.png" crc="51478383" ref="learning:massage"/>
+    <file name="u86_top_mid.png" crc="502133755" ref="learning:massage"/>
+    <file name="u86_mid_left.png" crc="3883911287" ref="learning:massage"/>
+    <file name="u86_mid_right.png" crc="167050863" ref="learning:massage"/>
+    <file name="u86_center.png" crc="4107598648" ref="learning:massage"/>
+    <file name="u86_bot_left.png" crc="159002788" ref="learning:massage"/>
+    <file name="u86_bot_right.png" crc="4192324213" ref="learning:massage"/>
+    <file name="u86_bot_mid.png" crc="4217092009" ref="learning:massage"/>
     <file name="u988.png" crc="4232393013" ref="learning:massage"/>
     <file name="u988-r.png" crc="492656305" ref="learning:massage"/>
     <file name="u990.png" crc="3845180874" ref="learning:massage"/>
@@ -106,8 +106,8 @@
     <file name="chinese_meridians.jpg" crc="4269817021" ref="massage"/>
     <file name="cupping-54549152731d2.jpg" crc="461887892" ref="massage"/>
   </folder>
-  <file name="index.html" crc="413427702" mt="1424221497976" redirect="true"/>
-  <file name="learning.html" crc="4055754695" mt="1424221537874" redirect="true"/>
-  <file name="massage.html" crc="217863863" mt="1424221867619" redirect="true"/>
-  <file name="contact.html" crc="3987582788" mt="1424221571062" redirect="true"/>
+  <file name="index.html" crc="4148949875" mt="1424295147982" redirect="true"/>
+  <file name="learning.html" crc="3815761474" mt="1424295043337" redirect="true"/>
+  <file name="massage.html" crc="4072414444" mt="1424295043338" redirect="true"/>
+  <file name="contact.html" crc="3916847580" mt="1424295147984" redirect="true"/>
 </manifest>
