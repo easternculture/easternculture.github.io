@@ -1,12 +1,12 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #5573AD;
+	color: #00001F;
+	background-color: #321BDA;
 }
 
 .html
 {
-	background: #FFFFFF url("../images/grey.jpg") repeat left top scroll;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -275,7 +275,7 @@
 #u987-4
 {
 	z-index: 121;
-	width: 600px;
+	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
 	font-size: 34px;
@@ -351,7 +351,7 @@
 
 #u401
 {
-	z-index: 53;
+	z-index: 49;
 	width: 420px;
 	border-color: #000000;
 	background-color: #262626;
@@ -546,7 +546,7 @@
 
 #u1131
 {
-	z-index: 49;
+	z-index: 50;
 	width: 214px;
 	border-color: #000000;
 	background-color: #262626;
@@ -570,7 +570,7 @@
 
 #u1133
 {
-	z-index: 50;
+	z-index: 51;
 	width: 214px;
 	border-color: #000000;
 	background-color: #262626;
@@ -595,7 +595,7 @@
 
 #u1135
 {
-	z-index: 51;
+	z-index: 52;
 	width: 214px;
 	border-color: #000000;
 	background-color: #262626;
@@ -620,7 +620,7 @@
 
 #u1137
 {
-	z-index: 52;
+	z-index: 53;
 	width: 214px;
 	border-color: #000000;
 	background-color: #262626;

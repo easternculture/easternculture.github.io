@@ -1,12 +1,12 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424295162528">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424301907285">
   <folder name="css">
-    <file name="site_global.css" crc="3992363387"/>
-    <file name="master_dark.css" crc="340581623" ref="massage:learning"/>
+    <file name="site_global.css" crc="4177152335"/>
     <file name="master_green.css" crc="3878648649" ref="index:contact"/>
-    <file name="index.css" crc="240481197" ref="index"/>
-    <file name="massage.css" crc="4126911611" ref="massage"/>
-    <file name="contact.css" crc="4064385974" ref="contact"/>
-    <file name="learning.css" crc="523708294" ref="learning"/>
+    <file name="index.css" crc="523377626" ref="index"/>
+    <file name="massage.css" crc="285880481" ref="massage"/>
+    <file name="contact.css" crc="4077393373" ref="contact"/>
+    <file name="learning.css" crc="4200331025" ref="learning"/>
+    <file name="master_red.css" crc="340581623" ref="massage:learning"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:learning:massage:contact"/>
@@ -23,7 +23,7 @@
     <file name="musewpdisclosure.js" crc="3952359668" ref="massage"/>
   </folder>
   <folder name="images">
-    <file name="grey.jpg" crc="34851488" ref="index:massage"/>
+    <file name="grey.jpg" crc="34851488" ref="massage"/>
     <file name="u228_top_left.png" crc="176337605" ref="index:contact"/>
     <file name="u228_top_right.png" crc="126500050" ref="index:contact"/>
     <file name="u228_top_mid.png" crc="4044630127" ref="index:contact"/>
@@ -105,9 +105,10 @@
     <file name="bodyguasha.jpg" crc="66670198" ref="massage"/>
     <file name="chinese_meridians.jpg" crc="4269817021" ref="massage"/>
     <file name="cupping-54549152731d2.jpg" crc="461887892" ref="massage"/>
+    <file name="favicon.ico" crc="4246844843" ref="index"/>
   </folder>
-  <file name="index.html" crc="4148949875" mt="1424295147982" redirect="true"/>
-  <file name="learning.html" crc="3815761474" mt="1424295043337" redirect="true"/>
-  <file name="massage.html" crc="4072414444" mt="1424295043338" redirect="true"/>
-  <file name="contact.html" crc="3916847580" mt="1424295147984" redirect="true"/>
+  <file name="index.html" crc="303146092" mt="1424300932501" redirect="true"/>
+  <file name="learning.html" crc="408468608" mt="1424300521781" redirect="true"/>
+  <file name="massage.html" crc="3954992359" mt="1424300521782" redirect="true"/>
+  <file name="contact.html" crc="442176533" mt="1424300521790" redirect="true"/>
 </manifest>
