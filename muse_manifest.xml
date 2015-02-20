@@ -1,11 +1,11 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424301907285">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424463999994">
   <folder name="css">
-    <file name="site_global.css" crc="4177152335"/>
+    <file name="site_global.css" crc="3992363387"/>
     <file name="master_green.css" crc="3878648649" ref="index:contact"/>
-    <file name="index.css" crc="523377626" ref="index"/>
-    <file name="massage.css" crc="285880481" ref="massage"/>
-    <file name="contact.css" crc="4077393373" ref="contact"/>
-    <file name="learning.css" crc="4200331025" ref="learning"/>
+    <file name="index.css" crc="503371042" ref="index"/>
+    <file name="massage.css" crc="58248850" ref="massage"/>
+    <file name="contact.css" crc="354449267" ref="contact"/>
+    <file name="learning.css" crc="3818349681" ref="learning"/>
     <file name="master_red.css" crc="340581623" ref="massage:learning"/>
   </folder>
   <folder name="scripts">
@@ -48,7 +48,6 @@
     <file name="lamps-lanterns-chinese-characters-photo-wallpaper-1680x1050-u1115-fr.jpg" crc="482307503" ref="index"/>
     <file name="tai-chi-tree-u1116-fr.jpg" crc="3821917332" ref="index"/>
     <file name="redwoods.jpg" crc="3959821988" ref="index"/>
-    <file name="massage-background-mid1183x114.jpg" crc="445206318" ref="index"/>
     <file name="u1574_top_left.png" crc="224195567" ref="index:contact"/>
     <file name="u1574_top_right.png" crc="315661100" ref="index:contact"/>
     <file name="u1574_top_mid.png" crc="196995905" ref="index:contact"/>
@@ -105,10 +104,10 @@
     <file name="bodyguasha.jpg" crc="66670198" ref="massage"/>
     <file name="chinese_meridians.jpg" crc="4269817021" ref="massage"/>
     <file name="cupping-54549152731d2.jpg" crc="461887892" ref="massage"/>
-    <file name="favicon.ico" crc="4246844843" ref="index"/>
+    <file name="favicon.ico" crc="4246844843" ref="index:learning"/>
   </folder>
-  <file name="index.html" crc="303146092" mt="1424300932501" redirect="true"/>
-  <file name="learning.html" crc="408468608" mt="1424300521781" redirect="true"/>
-  <file name="massage.html" crc="3954992359" mt="1424300521782" redirect="true"/>
-  <file name="contact.html" crc="442176533" mt="1424300521790" redirect="true"/>
+  <file name="index.html" crc="382671169" mt="1424463052548" redirect="true"/>
+  <file name="learning.html" crc="3810253032" mt="1424463800477" redirect="true"/>
+  <file name="massage.html" crc="443775195" mt="1424463871601" redirect="true"/>
+  <file name="contact.html" crc="3791699682" mt="1424463896338" redirect="true"/>
 </manifest>
