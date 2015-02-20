@@ -1,7 +1,7 @@
 .version.learning /* version checker */
 {
-	color: #0000E3;
-	background-color: #976471;
+	color: #000013;
+	background-color: #579389;
 }
 
 .html
@@ -642,34 +642,20 @@
 	left: 26px;
 }
 
-#pu2200
-{
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 12px;
-}
-
-#u2200
-{
-	z-index: 143;
-	width: 24px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2002-4
+#u2002-6
 {
 	z-index: 139;
 	width: 422px;
 	min-height: 24px;
 	background-color: transparent;
+	margin-left: 269px;
+	margin-top: 12px;
 	position: relative;
-	margin-right: -10000px;
-	left: 268px;
+}
+
+#u2002-4
+{
+	text-align: center;
 }
 
 #u547

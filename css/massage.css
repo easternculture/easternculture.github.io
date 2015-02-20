@@ -1,7 +1,7 @@
 .version.massage /* version checker */
 {
-	color: #000003;
-	background-color: #78CE92;
+	color: #0000E5;
+	background-color: #4322A0;
 }
 
 .html
@@ -278,7 +278,7 @@
 
 #u1530-4
 {
-	z-index: 178;
+	z-index: 180;
 	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
@@ -1521,7 +1521,7 @@
 
 #u2045-6
 {
-	z-index: 182;
+	z-index: 184;
 	width: 800px;
 	min-height: 110px;
 	border-style: none;
@@ -1546,34 +1546,20 @@
 	color: #E6FFF5;
 }
 
-#pu2209
-{
-	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 72px;
-}
-
-#u2209
-{
-	z-index: 188;
-	width: 24px;
-	min-height: 24px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2003-4
+#u2003-6
 {
 	z-index: 174;
 	width: 422px;
 	min-height: 24px;
 	background-color: transparent;
+	margin-left: 269px;
+	margin-top: 72px;
 	position: relative;
-	margin-right: -10000px;
-	left: 280px;
+}
+
+#u2003-4
+{
+	text-align: center;
 }
 
 #u547
