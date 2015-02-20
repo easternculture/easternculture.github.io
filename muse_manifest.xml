@@ -1,8 +1,8 @@
-<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424468247628">
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424468616710">
   <folder name="css">
     <file name="site_global.css" crc="3992363387"/>
     <file name="master_green.css" crc="3878648649" ref="index:contact"/>
-    <file name="index.css" crc="111012008" ref="index"/>
+    <file name="index.css" crc="4099620380" ref="index"/>
     <file name="massage.css" crc="3846382240" ref="massage"/>
     <file name="contact.css" crc="273991734" ref="contact"/>
     <file name="learning.css" crc="324506505" ref="learning"/>
@@ -106,7 +106,7 @@
     <file name="cupping-54549152731d2.jpg" crc="461887892" ref="massage"/>
     <file name="favicon.ico" crc="4246844843" ref="index"/>
   </folder>
-  <file name="index.html" crc="212937259" mt="1424468228871" redirect="true"/>
+  <file name="index.html" crc="4279728434" mt="1424468608164" redirect="true"/>
   <file name="learning.html" crc="236270860" mt="1424467842829" redirect="true"/>
   <file name="massage.html" crc="157337727" mt="1424467851947" redirect="true"/>
   <file name="contact.html" crc="4252806473" mt="1424467861000" redirect="true"/>
