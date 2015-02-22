@@ -132,6 +132,41 @@
 	visibility: inherit;
 }
 
+#u2098
+{
+	border-color: #CCDB2A;
+	position: relative;
+	background: transparent url("../images/arrowmenudown-u2131-fr.png") no-repeat center center;
+}
+
+#u2100
+{
+	background-color: #CCDB2A;
+	position: relative;
+}
+
+#u2464
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u2464:hover
+{
+	background-color: #FFA9A9;
+}
+
+#u2466-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	position: relative;
+}
+
 #u2288
 {
 	border-style: solid;
@@ -170,18 +205,29 @@
 {
 	border-color: #CCDB2A;
 	position: relative;
-	background: transparent url("../images/arrowmenudown-u2280-fr.png") no-repeat center center;
+	background: transparent url("../images/arrowmenudown-u2131-fr.png") no-repeat center center;
 }
 
-#u2288.MuseMenuActive #u2291
+#u2095.MuseMenuActive #u2098,#u2288.MuseMenuActive #u2291
 {
 	background-repeat: no-repeat;
 	background-position: center center;
 }
 
-#u2286
+#u2099,#u2286
 {
 	background-color: transparent;
+}
+
+#u2101,#u2087,#u2094,#u2463,#u2285,#u2287
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2100:hover,#u2287:hover
+{
+	background-color: #FF6D6E;
 }
 
 #u2439
@@ -195,12 +241,12 @@
 
 #u2439:hover
 {
-	background-color: #AAAAAA;
+	background-color: #FFA9A9;
 }
 
-#u2439.MuseMenuActive
+#u2464.MuseMenuActive,#u2439.MuseMenuActive
 {
-	background-color: #666666;
+	background-color: #FF6565;
 }
 
 #u2440-4
@@ -211,7 +257,7 @@
 	position: relative;
 }
 
-#u2101,#u2087,#u2094,#u2285,#u2287,#u2438,#u2108,#u2111
+#u2438,#u2108,#u2111
 {
 	background-color: transparent;
 	position: relative;
@@ -337,7 +383,7 @@
 
 #u988:hover
 {
-	background: url("../images/u988-r.png") no-repeat 3px 3px;
+	background: url("../images/u988-r.png") no-repeat 2px 2px;
 }
 
 #u990
@@ -349,7 +395,7 @@
 
 #u990:hover
 {
-	background: url("../images/u990-r.png") no-repeat 3px 3px;
+	background: url("../images/u990-r.png") no-repeat 2px 2px;
 }
 
 #u992
@@ -361,7 +407,7 @@
 
 #u992:hover
 {
-	background: url("../images/u992-r.png") no-repeat 3px 3px;
+	background: url("../images/u992-r.png") no-repeat 2px 2px;
 }
 
 #u994
@@ -373,7 +419,7 @@
 
 #u994:hover
 {
-	background: url("../images/u994-r.png") no-repeat 3px 3px;
+	background: url("../images/u994-r.png") no-repeat 2px 2px;
 }
 
 #u996
@@ -385,7 +431,7 @@
 
 #u996:hover
 {
-	background: url("../images/u996-r.png") no-repeat 3px 3px;
+	background: url("../images/u996-r.png") no-repeat 2px 2px;
 }
 
 #u1999-3

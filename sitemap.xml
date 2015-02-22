@@ -469,12 +469,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://easternculturesc.com/images/arrowmenudown-u2280-fr.png</loc>
-    <lastmod>2015-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://easternculturesc.com/images/u1093-sprite.png</loc>
     <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -577,6 +571,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://easternculturesc.com/images/arrowmenudown-u2131-fr.png</loc>
+    <lastmod>2015-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://easternculturesc.com/index.html</loc>
     <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -584,31 +584,37 @@
   </url>
   <url>
     <loc>http://easternculturesc.com/learning.html</loc>
-    <lastmod>2015-02-21</lastmod>
+    <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://easternculturesc.com/massage.html</loc>
-    <lastmod>2015-02-21</lastmod>
+    <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://easternculturesc.com/contact.html</loc>
-    <lastmod>2015-02-21</lastmod>
+    <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://easternculturesc.com/blog.html</loc>
-    <lastmod>2015-02-21</lastmod>
+    <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://easternculturesc.com/blog-1501.html</loc>
-    <lastmod>2015-02-21</lastmod>
+    <lastmod>2015-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://easternculturesc.com/free-massage.html</loc>
+    <lastmod>2015-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
