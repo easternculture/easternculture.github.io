@@ -1,7 +1,7 @@
 .version.massage /* version checker */
 {
-	color: #0000F4;
-	background-color: #59F449;
+	color: #00000F;
+	background-color: #EAC410;
 }
 
 .html
@@ -418,51 +418,51 @@
 #u988
 {
 	z-index: 9;
-	height: 52px;
-	width: 52px;
+	height: 54px;
+	width: 54px;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 749px;
+	margin-top: 17px;
+	left: 748px;
 }
 
 #u990
 {
 	z-index: 12;
-	height: 52px;
-	width: 52px;
+	height: 54px;
+	width: 54px;
 	margin-right: -10000px;
-	margin-top: 19px;
-	left: 814px;
+	margin-top: 18px;
+	left: 813px;
 }
 
 #u992
 {
 	z-index: 15;
-	height: 52px;
-	width: 52px;
+	height: 54px;
+	width: 54px;
 	margin-right: -10000px;
-	margin-top: 19px;
-	left: 872px;
+	margin-top: 18px;
+	left: 871px;
 }
 
 #u994
 {
 	z-index: 18;
-	height: 52px;
-	width: 52px;
+	height: 54px;
+	width: 54px;
 	margin-right: -10000px;
-	margin-top: 19px;
-	left: 930px;
+	margin-top: 18px;
+	left: 929px;
 }
 
 #u996
 {
 	z-index: 21;
-	height: 52px;
-	width: 52px;
+	height: 54px;
+	width: 54px;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 988px;
+	margin-top: 17px;
+	left: 987px;
 }
 
 #u1112-4
@@ -1017,14 +1017,14 @@
 #u1068
 {
 	z-index: 235;
-	height: 183px;
-	width: 234px;
+	height: 185px;
+	width: 236px;
 	vertical-align: top;
-	margin-bottom: -10px;
+	margin-bottom: -11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -10px;
-	left: -10px;
+	margin-top: -11px;
+	left: -11px;
 	background: url("../images/swedish-massage--u1068.png") no-repeat 0px 0px;
 }
 
@@ -1036,14 +1036,14 @@
 #u1069
 {
 	z-index: 232;
-	height: 184px;
-	width: 235px;
+	height: 185px;
+	width: 236px;
 	vertical-align: top;
 	margin-bottom: -11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -10px;
-	left: 224px;
+	margin-top: -11px;
+	left: 223px;
 	background: url("../images/deeptissue-u1069.png") no-repeat 0px 0px;
 }
 
@@ -1055,14 +1055,14 @@
 #u1070
 {
 	z-index: 229;
-	height: 183px;
-	width: 234px;
+	height: 185px;
+	width: 236px;
 	vertical-align: top;
-	margin-bottom: -10px;
+	margin-bottom: -11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -10px;
-	left: 458px;
+	margin-top: -11px;
+	left: 457px;
 	background: url("../images/hotstone-u1070.png") no-repeat 0px 0px;
 }
 
@@ -1074,14 +1074,14 @@
 #u1071
 {
 	z-index: 226;
-	height: 183px;
-	width: 234px;
+	height: 185px;
+	width: 236px;
 	vertical-align: top;
-	margin-bottom: -10px;
+	margin-bottom: -11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -10px;
-	left: 692px;
+	margin-top: -11px;
+	left: 691px;
 	background: url("../images/footmassage-u1071.png") no-repeat 0px 0px;
 }
 
@@ -2069,7 +2069,7 @@
 	background-image: url("../images/u2045-6-sprite.png");
 	width: 800px;
 	overflow: hidden;
-	height: 9px;
+	height: 10px;
 	background-position: left top;
 }
 
@@ -2079,7 +2079,7 @@
 	overflow: visible;
 	background-position: -800px top;
 	width: 800px;
-	min-height: 92px;
+	min-height: 90px;
 }
 
 ._u2045-6.f3s_bot
@@ -2087,14 +2087,14 @@
 	background-image: url("../images/u2045-6-sprite.png");
 	width: 800px;
 	overflow: visible;
-	height: 9px;
+	height: 10px;
 	background-position: -1600px top;
 }
 
 #u2045-6position_content
 {
-	margin-top: -9px;
-	margin-bottom: -9px;
+	margin-top: -10px;
+	margin-bottom: -10px;
 	width: 800px;
 }
 
@@ -2131,16 +2131,16 @@
 
 ._u547.f9s_center
 {
-	margin-left: 10px;
-	margin-right: 8px;
-	height: 3px;
+	margin-left: 11px;
+	margin-right: 9px;
+	height: 1px;
 }
 
 ._u547.f9s_top_mid,._u547.f9s_bot_mid
 {
-	margin-left: 9px;
-	margin-right: 7px;
-	height: 9px;
+	margin-left: 10px;
+	margin-right: 8px;
+	height: 10px;
 }
 
 #u547-bw
