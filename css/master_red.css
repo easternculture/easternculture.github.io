@@ -14,8 +14,8 @@
 #u1721-4
 {
 	background-color: transparent;
-	font-size: 52px;
 	color: #FF0000;
+	font-size: 52px;
 	text-align: left;
 	font-family: righteous, sans-serif;
 	font-weight: 400;
@@ -44,8 +44,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 20px;
 	color: #262626;
+	font-size: 20px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -78,8 +78,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 20px;
 	color: #262626;
+	font-size: 20px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -112,8 +112,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 20px;
 	color: #262626;
+	font-size: 20px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -181,8 +181,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 20px;
 	color: #262626;
+	font-size: 20px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -312,8 +312,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	font-size: 20px;
 	color: #262626;
+	font-size: 20px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -350,67 +350,18 @@
 	cursor: pointer;
 }
 
-._u86.f9s_top_left
+#u86
 {
-	background-image: url("../images/u86_top_left.png");
-	overflow: visible;
-	background-position: left center;
+	border-color: #000000;
+	background-color: #FF0000;
 }
 
-._u86.f9s_top_right
+#u86::before
 {
-	background-image: url("../images/u86_top_right.png");
-	overflow: visible;
-	background-position: right center;
-}
-
-._u86.f9s_top_mid
-{
-	background-image: url("../images/u86_top_mid.png");
-	overflow: visible;
-	background-position: center center;
-}
-
-._u86.f9s_mid_left
-{
-	background-image: url("../images/u86_mid_left.png");
-	overflow: visible;
-	background-position: left top;
-}
-
-._u86.f9s_mid_right
-{
-	background-image: url("../images/u86_mid_right.png");
-	overflow: visible;
-	background-position: right top;
-}
-
-._u86.f9s_center
-{
-	background-image: url("../images/u86_center.png");
-	overflow: visible;
-	background-position: center top;
-}
-
-._u86.f9s_bot_left
-{
-	background-image: url("../images/u86_bot_left.png");
-	overflow: visible;
-	background-position: left top;
-}
-
-._u86.f9s_bot_right
-{
-	background-image: url("../images/u86_bot_right.png");
-	overflow: visible;
-	background-position: right top;
-}
-
-._u86.f9s_bot_mid
-{
-	background-image: url("../images/u86_bot_mid.png");
-	overflow: visible;
-	background-position: center top;
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: inset 0px 0px 15px rgba(9,9,9,0.56), inset 0px 0px 15px rgba(9,9,9,0.56);
 }
 
 #u86_align_to_page
@@ -427,7 +378,7 @@
 
 #u988:hover
 {
-	background: url("../images/u988-r.png") no-repeat 3px 3px;
+	background: url("../images/u988-r.png") no-repeat 2px 2px;
 }
 
 #u990
@@ -439,7 +390,7 @@
 
 #u990:hover
 {
-	background: url("../images/u990-r.png") no-repeat 3px 3px;
+	background: url("../images/u990-r.png") no-repeat 2px 2px;
 }
 
 #u992
@@ -451,7 +402,7 @@
 
 #u992:hover
 {
-	background: url("../images/u992-r.png") no-repeat 3px 3px;
+	background: url("../images/u992-r.png") no-repeat 2px 2px;
 }
 
 #u994
@@ -463,7 +414,7 @@
 
 #u994:hover
 {
-	background: url("../images/u994-r.png") no-repeat 3px 3px;
+	background: url("../images/u994-r.png") no-repeat 2px 2px;
 }
 
 #u996
@@ -475,7 +426,7 @@
 
 #u996:hover
 {
-	background: url("../images/u996-r.png") no-repeat 3px 3px;
+	background: url("../images/u996-r.png") no-repeat 2px 2px;
 }
 
 #u1999-3
@@ -484,66 +435,17 @@
 	position: relative;
 }
 
-._u547.f9s_top_left
+#u547
 {
-	background-image: url("../images/u547_top_left.png");
-	overflow: visible;
-	background-position: left center;
+	border-color: #000000;
+	background-color: #2A2A2A;
 }
 
-._u547.f9s_top_right
+#u547::before
 {
-	background-image: url("../images/u547_top_right.png");
-	overflow: visible;
-	background-position: right center;
-}
-
-._u547.f9s_top_mid
-{
-	background-image: url("../images/u547_top_mid.png");
-	overflow: visible;
-	background-position: center center;
-}
-
-._u547.f9s_mid_left
-{
-	background-image: url("../images/u547_mid_left.png");
-	overflow: visible;
-	background-position: left top;
-}
-
-._u547.f9s_mid_right
-{
-	background-image: url("../images/u547_mid_right.png");
-	overflow: visible;
-	background-position: right top;
-}
-
-._u547.f9s_center
-{
-	background-image: url("../images/u547_center.png");
-	overflow: visible;
-	background-position: center top;
-}
-
-._u547.f9s_bot_left
-{
-	background-image: url("../images/u547_bot_left.png");
-	overflow: visible;
-	background-position: left top;
-}
-
-._u547.f9s_bot_right
-{
-	background-image: url("../images/u547_bot_right.png");
-	overflow: visible;
-	background-position: right top;
-}
-
-._u547.f9s_bot_mid
-{
-	background-image: url("../images/u547_bot_mid.png");
-	overflow: visible;
-	background-position: center top;
+	content: "";
+	position: absolute;
+	pointer-events: none;
+	box-shadow: inset 0px 0px 8px rgba(9,9,9,0.26), inset 0px 0px 8px rgba(9,9,9,0.26);
 }
 
