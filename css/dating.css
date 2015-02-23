@@ -1,7 +1,7 @@
 .version.dating /* version checker */
 {
-	color: #0000FD;
-	background-color: #32BFA1;
+	color: #00000F;
+	background-color: #002BF2;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 989.9499999999998px;
+	min-height: 990px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -63,7 +62,7 @@
 
 #menuu2086
 {
-	z-index: 30;
+	z-index: 27;
 	width: 590px;
 	margin-right: -10000px;
 	margin-top: 78px;
@@ -256,7 +255,7 @@
 
 #u2098
 {
-	z-index: 49;
+	z-index: 46;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -454,7 +453,7 @@
 
 #u2291
 {
-	z-index: 70;
+	z-index: 67;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -760,7 +759,7 @@
 
 #u2843-29
 {
-	z-index: 103;
+	z-index: 107;
 	width: 644px;
 	min-height: 390px;
 	background-color: transparent;
@@ -771,7 +770,7 @@
 
 #slideshowu2781
 {
-	z-index: 97;
+	z-index: 101;
 	width: 0.01px;
 	height: 397px;
 	margin-left: 100px;
@@ -789,12 +788,12 @@
 
 #u2800popup
 {
-	z-index: 98;
+	z-index: 102;
 }
 
 #u2805
 {
-	z-index: 99;
+	z-index: 103;
 	width: 760px;
 	height: 397px;
 	border-style: none;
@@ -806,7 +805,7 @@
 
 #u2834
 {
-	z-index: 101;
+	z-index: 105;
 	width: 760px;
 	height: 397px;
 	border-style: none;
@@ -826,26 +825,41 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#u1999-3
+#pu2850-4
 {
-	z-index: 27;
-	width: 422px;
-	min-height: 24px;
-	margin-left: 236px;
-	top: -245px;
-	margin-bottom: -24px;
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 9px;
 }
 
-#u2844-6
+#u2850-4
 {
-	z-index: 132;
+	z-index: 136;
+	width: 185px;
+	min-height: 170px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u2846-6
+{
+	z-index: 94;
 	width: 422px;
 	min-height: 24px;
-	background-color: transparent;
-	text-align: center;
-	margin-left: 269px;
-	margin-top: 19px;
-	position: relative;
+	margin-right: -10000px;
+	margin-top: 134px;
+	left: 247px;
+}
+
+#u2847
+{
+	z-index: 100;
+	width: 170px;
+	min-height: 170px;
+	margin-right: -10000px;
+	left: 768px;
 }
 
 #u547

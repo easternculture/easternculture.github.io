@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #0000ED;
-	background-color: #AB763A;
+	color: #000011;
+	background-color: #1A4543;
 }
 
 .html
@@ -64,7 +64,7 @@
 
 #menuu2086
 {
-	z-index: 30;
+	z-index: 27;
 	width: 590px;
 	margin-right: -10000px;
 	margin-top: 78px;
@@ -257,7 +257,7 @@
 
 #u2098
 {
-	z-index: 49;
+	z-index: 46;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -455,7 +455,7 @@
 
 #u2291
 {
-	z-index: 70;
+	z-index: 67;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -704,7 +704,7 @@
 
 #u2229-4
 {
-	z-index: 114;
+	z-index: 118;
 	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
@@ -789,7 +789,7 @@
 
 #u2262
 {
-	z-index: 97;
+	z-index: 101;
 	width: 910px;
 	height: 2px;
 	border-color: #000000;
@@ -808,7 +808,7 @@
 
 #pu2230
 {
-	z-index: 98;
+	z-index: 102;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -845,7 +845,7 @@
 
 #u2232-15
 {
-	z-index: 99;
+	z-index: 103;
 	width: 236px;
 	min-height: 287px;
 	background-color: transparent;
@@ -854,19 +854,42 @@
 	margin-right: -10000px;
 }
 
-#u1999-3
+#u2846-6
 {
-	z-index: 27;
+	z-index: 94;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
-	margin-top: 554px;
-	left: 214px;
+	margin-top: 1535px;
+	left: 247px;
+}
+
+#u2847
+{
+	z-index: 100;
+	width: 170px;
+	min-height: 170px;
+	margin-right: -10000px;
+	margin-top: 1401px;
+	left: 768px;
+}
+
+#u2231-6
+{
+	z-index: 122;
+	width: 422px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1535px;
+	left: 247px;
 }
 
 #u2625-79
 {
-	z-index: 124;
+	z-index: 128;
 	width: 583px;
 	min-height: 469px;
 	background-color: transparent;
@@ -882,18 +905,6 @@
 	color: #262626;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-}
-
-#u2231-6
-{
-	z-index: 118;
-	width: 422px;
-	min-height: 24px;
-	background-color: transparent;
-	text-align: center;
-	margin-left: 269px;
-	margin-top: 7px;
-	position: relative;
 }
 
 #u547

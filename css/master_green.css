@@ -15,14 +15,6 @@
 	position: relative;
 }
 
-#menuu2119
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
 #u2135
 {
 	border-style: solid;
@@ -435,6 +427,21 @@
 #u1011:hover
 {
 	background: url("../images/u1011-r.png") no-repeat 2px 2px;
+}
+
+#u2851-6
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#menuu2119,#u2852
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 }
 
 #u1574

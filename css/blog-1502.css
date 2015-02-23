@@ -1,7 +1,7 @@
 .version.blog_1502 /* version checker */
 {
-	color: #0000E6;
-	background-color: #A0710C;
+	color: #000009;
+	background-color: #62B8AF;
 }
 
 .html
@@ -64,7 +64,7 @@
 
 #menuu2086
 {
-	z-index: 30;
+	z-index: 27;
 	width: 590px;
 	margin-right: -10000px;
 	margin-top: 78px;
@@ -257,7 +257,7 @@
 
 #u2098
 {
-	z-index: 49;
+	z-index: 46;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -455,7 +455,7 @@
 
 #u2291
 {
-	z-index: 70;
+	z-index: 67;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -704,7 +704,7 @@
 
 #u2505-4
 {
-	z-index: 283;
+	z-index: 287;
 	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
@@ -789,7 +789,7 @@
 
 #u2503
 {
-	z-index: 281;
+	z-index: 285;
 	width: 910px;
 	height: 2px;
 	border-color: #000000;
@@ -799,16 +799,36 @@
 	position: relative;
 }
 
-#ppu2507
+#pu2502-184
 {
 	width: 0.01px;
 	margin-left: 22px;
 	margin-top: 21px;
 }
 
+#u2502-184
+{
+	z-index: 101;
+	width: 583px;
+	min-height: 469px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2502-182
+{
+	font-size: 12px;
+	text-align: center;
+	letter-spacing: 1px;
+	color: #262626;
+	font-family: questrial, sans-serif;
+	font-weight: 400;
+}
+
 #pu2507
 {
-	z-index: 282;
+	z-index: 286;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
@@ -845,7 +865,7 @@
 
 #u2623-15
 {
-	z-index: 293;
+	z-index: 297;
 	width: 236px;
 	min-height: 287px;
 	background-color: transparent;
@@ -854,46 +874,41 @@
 	margin-right: -10000px;
 }
 
-#u1999-3
+#pu2846-6
 {
-	z-index: 27;
+	width: 0.01px;
+	margin-left: 269px;
+	margin-top: 3px;
+}
+
+#u2846-6
+{
+	z-index: 94;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
-	margin-top: 554px;
-	left: 214px;
+	margin-top: 134px;
 }
 
-#u2502-184
+#u2847
 {
-	z-index: 97;
-	width: 583px;
-	min-height: 469px;
-	background-color: transparent;
-	position: relative;
+	z-index: 100;
+	width: 170px;
+	min-height: 170px;
 	margin-right: -10000px;
-}
-
-#u2502-182
-{
-	font-size: 12px;
-	text-align: center;
-	letter-spacing: 1px;
-	color: #262626;
-	font-family: questrial, sans-serif;
-	font-weight: 400;
+	left: 521px;
 }
 
 #u2506-6
 {
-	z-index: 287;
+	z-index: 291;
 	width: 422px;
 	min-height: 24px;
 	background-color: transparent;
 	text-align: center;
-	margin-left: 269px;
-	margin-top: 137px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 134px;
 }
 
 #u547

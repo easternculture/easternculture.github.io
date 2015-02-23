@@ -22,14 +22,6 @@
 	position: relative;
 }
 
-#menuu2086
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
 #u2102
 {
 	border-style: solid;
@@ -463,8 +455,17 @@
 	background: url("../images/u996-r.png") no-repeat 2px 2px;
 }
 
-#u1999-3
+#u2846-6
 {
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#menuu2086,#u2847
+{
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 }
