@@ -1,34 +1,35 @@
-<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424646456377">
+<manifest alg="2" build="1176" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1424713949654">
   <folder name="css">
     <file name="site_global.css" crc="341199087"/>
-    <file name="master_green.css" crc="3771242732" ref="index:contact"/>
-    <file name="index.css" crc="4043703211" ref="index"/>
-    <file name="massage.css" crc="3890731219" ref="massage"/>
-    <file name="contact.css" crc="296279093" ref="contact"/>
-    <file name="learning.css" crc="4064107648" ref="learning"/>
-    <file name="master_red.css" crc="4144661379" ref="massage:learning:blog-1501:blog:free-massage:blog-1502:blog-1503"/>
-    <file name="blog-1501.css" crc="91839303" ref="blog-1501"/>
-    <file name="blog.css" crc="12335631" ref="blog"/>
-    <file name="free-massage.css" crc="474196902" ref="free-massage"/>
-    <file name="blog-1502.css" crc="220935808" ref="blog-1502"/>
-    <file name="blog-1503.css" crc="243603319" ref="blog-1503"/>
+    <file name="master_green.css" crc="140411023" ref="index:contact"/>
+    <file name="index.css" crc="3950002070" ref="index"/>
+    <file name="massage.css" crc="3910660084" ref="massage"/>
+    <file name="contact.css" crc="535112906" ref="contact"/>
+    <file name="learning.css" crc="3930248876" ref="learning"/>
+    <file name="master_red.css" crc="4124569760" ref="massage:learning:blog-1501:blog:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="blog-1501.css" crc="31606768" ref="blog-1501"/>
+    <file name="blog.css" crc="3987437114" ref="blog"/>
+    <file name="free-massage.css" crc="522172561" ref="free-massage"/>
+    <file name="blog-1502.css" crc="3869274380" ref="blog-1502"/>
+    <file name="blog-1503.css" crc="4084708222" ref="blog-1503"/>
+    <file name="dating.css" crc="4247961505" ref="dating"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="museutils.js" crc="3793461109" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="jquery.musemenu.js" crc="492415246" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="museutils.js" crc="3793461109" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
     <file name="pie.js" crc="3827607177" ref="index:massage:free-massage"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index:learning:blog:blog-1501:blog-1502:blog-1503"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="webpro.js" crc="4263367560" ref="learning:massage"/>
-    <file name="musewpslideshow.js" crc="126372691" ref="learning:massage"/>
-    <file name="jquery.museoverlay.js" crc="3946374898" ref="learning:massage"/>
-    <file name="touchswipe.js" crc="3796284560" ref="learning:massage"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:learning:massage:contact:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="webpro.js" crc="4263367560" ref="learning:massage:dating"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="learning:massage:dating"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="learning:massage:dating"/>
+    <file name="touchswipe.js" crc="3796284560" ref="learning:massage:dating"/>
     <file name="musewpdisclosure.js" crc="513264147" ref="massage"/>
   </folder>
   <folder name="images">
-    <file name="grey.jpg" crc="34851488" ref="massage:free-massage"/>
+    <file name="grey.jpg" crc="34851488" ref="massage:free-massage:dating"/>
     <file name="u1003.png" crc="438575121" ref="index:contact"/>
     <file name="u1003-r.png" crc="4203139390" ref="index:contact"/>
     <file name="u1005.png" crc="3987604615" ref="index:contact"/>
@@ -43,23 +44,23 @@
     <file name="tai-chi-tree-u1116-fr.jpg" crc="4154226542" ref="index"/>
     <file name="redwoods.jpg" crc="3959821988" ref="index"/>
     <file name="background.jpg" crc="4066949657" ref="learning:blog:blog-1501:blog-1502:blog-1503"/>
-    <file name="u988.png" crc="438575121" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u988-r.png" crc="4203139390" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u990.png" crc="3987604615" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u990-r.png" crc="3819291988" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u992.png" crc="12466360" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u992-r.png" crc="443457377" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u994.png" crc="101312314" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u994-r.png" crc="22662438" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u996.png" crc="4170437397" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
-    <file name="u996-r.png" crc="507022227" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503"/>
+    <file name="u988.png" crc="438575121" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u988-r.png" crc="4203139390" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u990.png" crc="3987604615" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u990-r.png" crc="3819291988" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u992.png" crc="12466360" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u992-r.png" crc="443457377" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u994.png" crc="101312314" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u994-r.png" crc="22662438" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u996.png" crc="4170437397" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
+    <file name="u996-r.png" crc="507022227" ref="learning:massage:blog:blog-1501:free-massage:blog-1502:blog-1503:dating"/>
     <file name="chess_3707322819_295450f641_o-crop-u1766.jpg" crc="88042289" ref="learning"/>
-    <file name="blank.gif" crc="4208392903" ref="learning"/>
+    <file name="blank.gif" crc="4208392903" ref="learning:dating"/>
     <file name="tia_chi_sunrise_by_whitewolf_ont_ca-d3cjgic-crop-u1963.jpg" crc="4216097226" ref="learning"/>
     <file name="lamps-lanterns-chinese-characters-photo-wallpaper-1680x1050-crop-u1975.jpg" crc="241662917" ref="learning"/>
     <file name="arrow_left.png" crc="117384309" ref="learning"/>
     <file name="arrow_right.png" crc="3760641105" ref="learning"/>
-    <file name="loading.gif" crc="3815509949" ref="learning"/>
+    <file name="loading.gif" crc="3815509949" ref="learning:dating"/>
     <file name="kid_writing_chinese_on_a_board.jpg" crc="3868212425" ref="learning"/>
     <file name="tuina_symbol-300x300.jpg" crc="525295389" ref="massage"/>
     <file name="bodyguasha.jpg" crc="66670198" ref="massage"/>
@@ -78,14 +79,17 @@
     <file name="hotstone.jpg" crc="3962516048" ref="massage"/>
     <file name="footmassage-ieu1071-fr.png" crc="518630334" ref="massage"/>
     <file name="footmassage.jpg" crc="3817342919" ref="massage"/>
+    <file name="stockvault-heart114123-crop-u2805.jpg" crc="3864834558" ref="dating"/>
+    <file name="stockvault-hearts-and-stars130934-crop-u2834.jpg" crc="65692974" ref="dating"/>
   </folder>
-  <file name="index.html" crc="239174737" mt="1424646452592" redirect="true"/>
-  <file name="learning.html" crc="3876268600" mt="1424646452461" redirect="true"/>
-  <file name="massage.html" crc="484436321" mt="1424646452254" redirect="true"/>
-  <file name="contact.html" crc="4143245562" mt="1424644544496" redirect="true"/>
-  <file name="blog.html" crc="12208661" mt="1424644544525" redirect="true"/>
-  <file name="blog-1501.html" crc="204627263" mt="1424644544529" redirect="true"/>
-  <file name="free-massage.html" crc="119982204" mt="1424644544484" redirect="true"/>
-  <file name="blog-1502.html" crc="268503717" mt="1424644544536" redirect="true"/>
-  <file name="blog-1503.html" crc="248245800" mt="1424644544538" redirect="true"/>
+  <file name="index.html" crc="233356533" mt="1424713175056" redirect="true"/>
+  <file name="learning.html" crc="13924913" mt="1424713152809" redirect="true"/>
+  <file name="massage.html" crc="383876085" mt="1424713152809" redirect="true"/>
+  <file name="contact.html" crc="4212879268" mt="1424713175056" redirect="true"/>
+  <file name="blog.html" crc="495170922" mt="1424713152809" redirect="true"/>
+  <file name="blog-1501.html" crc="3804365476" mt="1424713152809" redirect="true"/>
+  <file name="free-massage.html" crc="4086720503" mt="1424713152809" redirect="true"/>
+  <file name="blog-1502.html" crc="107981721" mt="1424713152809" redirect="true"/>
+  <file name="blog-1503.html" crc="4200251230" mt="1424713152809" redirect="true"/>
+  <file name="dating.html" crc="3811600852" mt="1424713935353" redirect="true"/>
 </manifest>

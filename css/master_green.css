@@ -38,7 +38,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -72,7 +72,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -106,7 +106,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -160,6 +160,40 @@
 	position: relative;
 }
 
+#u2764
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 1px 0px 0px;
+}
+
+#u2765-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #262626;
+	font-size: 18px;
+	text-align: center;
+	font-family: questrial, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2764:hover #u2765-4 p
+{
+	color: #F36525;
+	visibility: inherit;
+}
+
+#u2764:active #u2765-4 p
+{
+	color: #FFC20F;
+	visibility: inherit;
+}
+
 #u2279
 {
 	border-style: solid;
@@ -175,7 +209,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
@@ -283,7 +317,7 @@
 	position: relative;
 }
 
-#u2134,#u2141,#u2127,#u2470,#u2278,#u2284,#u2431,#u2582,#u2614,#u2120,#u2123
+#u2134,#u2141,#u2127,#u2470,#u2754,#u2278,#u2284,#u2431,#u2582,#u2614,#u2120,#u2123
 {
 	background-color: transparent;
 	position: relative;
@@ -295,14 +329,14 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
 	position: relative;
 }
 
-#u2135.MuseMenuActive #u2136-4,#u2142.MuseMenuActive #u2143-4,#u2128.MuseMenuActive #u2130-4,#u2279.MuseMenuActive #u2282-4,#u2123.MuseMenuActive #u2125-4
+#u2135.MuseMenuActive #u2136-4,#u2142.MuseMenuActive #u2143-4,#u2128.MuseMenuActive #u2130-4,#u2764.MuseMenuActive #u2765-4,#u2279.MuseMenuActive #u2282-4,#u2123.MuseMenuActive #u2125-4
 {
 	border-style: none;
 	border-color: transparent;
@@ -320,7 +354,7 @@
 	visibility: inherit;
 }
 
-#u2135.MuseMenuActive #u2136-4 p,#u2142.MuseMenuActive #u2143-4 p,#u2128.MuseMenuActive #u2130-4 p,#u2279.MuseMenuActive #u2282-4 p,#u2123.MuseMenuActive #u2125-4 p
+#u2135.MuseMenuActive #u2136-4 p,#u2142.MuseMenuActive #u2143-4 p,#u2128.MuseMenuActive #u2130-4 p,#u2764.MuseMenuActive #u2765-4 p,#u2279.MuseMenuActive #u2282-4 p,#u2123.MuseMenuActive #u2125-4 p
 {
 	color: #F36525;
 	visibility: inherit;
