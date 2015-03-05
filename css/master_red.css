@@ -380,11 +380,6 @@
 	background-color: #FFA9A9;
 }
 
-#u2464.MuseMenuActive,#u2439.MuseMenuActive,#u2576.MuseMenuActive,#u2608.MuseMenuActive,#u3046.MuseMenuActive,#u3073.MuseMenuActive,#u3101.MuseMenuActive
-{
-	background-color: #FF6565;
-}
-
 #u3103-4
 {
 	background-color: transparent;
@@ -393,7 +388,34 @@
 	position: relative;
 }
 
-#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u2108,#u2111
+#u3146
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u3146:hover
+{
+	background-color: #FFA9A9;
+}
+
+#u2464.MuseMenuActive,#u2439.MuseMenuActive,#u2576.MuseMenuActive,#u2608.MuseMenuActive,#u3046.MuseMenuActive,#u3073.MuseMenuActive,#u3101.MuseMenuActive,#u3146.MuseMenuActive
+{
+	background-color: #FF6565;
+}
+
+#u3149-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	position: relative;
+}
+
+#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u2108,#u2111
 {
 	background-color: transparent;
 	position: relative;

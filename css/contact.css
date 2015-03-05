@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000010;
-	background-color: #A8CB0C;
+	color: #000009;
+	background-color: #3F86C0;
 }
 
 .html
@@ -670,20 +670,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3080.MuseMenuActive #u3083-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 86px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2875,#u2882,#u2868,#u3050,#u3079,#u3107
-{
-	width: 125px;
-}
-
 #u3108
 {
 	width: 123px;
@@ -698,14 +684,63 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3108.MuseMenuActive
+#u3110-4
+{
+	width: 86px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+	left: 14px;
+}
+
+#u3080.MuseMenuActive #u3083-4,#u3108:hover #u3110-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 86px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3108.MuseMenuActive #u3110-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 86px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136
+{
+	width: 125px;
+}
+
+#u3139
+{
+	width: 123px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u3108.MuseMenuActive,#u3139:hover
 {
 	width: 123px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3110-4
+#u3139.MuseMenuActive
+{
+	width: 123px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3140-4
 {
 	width: 115px;
 	min-height: 13px;
@@ -717,7 +752,7 @@
 	left: 2px;
 }
 
-#u3108:hover #u3110-4
+#u3139:hover #u3140-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -726,7 +761,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3108.MuseMenuActive #u3110-4
+#u3139.MuseMenuActive #u3140-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -816,7 +851,7 @@
 
 #u835-4
 {
-	z-index: 116;
+	z-index: 122;
 	width: 604px;
 	min-height: 49px;
 	background-color: transparent;
@@ -901,7 +936,7 @@
 
 #u1890-4
 {
-	z-index: 121;
+	z-index: 127;
 	width: 525px;
 	min-height: 35px;
 	background-color: transparent;
@@ -920,7 +955,7 @@
 
 #u837
 {
-	z-index: 120;
+	z-index: 126;
 	width: 458px;
 	min-height: 450px;
 	border-style: none;
@@ -932,7 +967,7 @@
 
 #u2453
 {
-	z-index: 125;
+	z-index: 131;
 	width: 458px;
 	min-height: 450px;
 	border-style: none;
@@ -952,7 +987,7 @@
 
 #u2856-4
 {
-	z-index: 126;
+	z-index: 132;
 	width: 185px;
 	min-height: 170px;
 	background-color: transparent;
