@@ -1,7 +1,7 @@
-.version.blog_1501 /* version checker */
+.version.blog_1509 /* version checker */
 {
-	color: #0000E7;
-	background-color: #D5C19D;
+	color: #00000C;
+	background-color: #97169C;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 731.9500000000012px;
+	min-height: 732px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -1024,19 +1023,9 @@
 {
 	z-index: 177;
 	width: 910px;
+	height: 2px;
 	margin-left: 22px;
 	margin-top: 25px;
-}
-
-#u2361
-{
-	z-index: 311;
-	width: 910px;
-	height: 2px;
-	border-color: #000000;
-	background-color: #CCDB2A;
-	position: relative;
-	margin-right: -10000px;
 }
 
 #ppu3033
@@ -1088,7 +1077,7 @@
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
-	margin-top: 3426px;
+	margin-top: 1665px;
 	left: 247px;
 }
 
@@ -1098,11 +1087,11 @@
 	width: 170px;
 	min-height: 170px;
 	margin-right: -10000px;
-	margin-top: 3292px;
+	margin-top: 1531px;
 	left: 768px;
 }
 
-#u2365-129
+#u3184-81
 {
 	z-index: 182;
 	width: 583px;
@@ -1112,7 +1101,7 @@
 	margin-right: -10000px;
 }
 
-#u2365-127
+#u3184-79
 {
 	font-size: 12px;
 	text-align: center;
@@ -1120,19 +1109,6 @@
 	color: #262626;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-}
-
-#u2362-6
-{
-	z-index: 312;
-	width: 422px;
-	min-height: 24px;
-	background-color: transparent;
-	text-align: center;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 3426px;
-	left: 247px;
 }
 
 #u3024

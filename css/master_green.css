@@ -417,11 +417,6 @@
 	background-color: #FFA9A9;
 }
 
-#u2906.MuseMenuActive,#u2876.MuseMenuActive,#u2883.MuseMenuActive,#u2869.MuseMenuActive,#u3051.MuseMenuActive,#u3080.MuseMenuActive,#u3108.MuseMenuActive,#u3139.MuseMenuActive,#u3162.MuseMenuActive
-{
-	background-color: #FF6565;
-}
-
 #u3163-4
 {
 	background-color: transparent;
@@ -430,7 +425,34 @@
 	position: relative;
 }
 
-#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136,#u3159,#u2893,#u2894
+#u3189
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u3189:hover
+{
+	background-color: #FFA9A9;
+}
+
+#u2906.MuseMenuActive,#u2876.MuseMenuActive,#u2883.MuseMenuActive,#u2869.MuseMenuActive,#u3051.MuseMenuActive,#u3080.MuseMenuActive,#u3108.MuseMenuActive,#u3139.MuseMenuActive,#u3162.MuseMenuActive,#u3189.MuseMenuActive
+{
+	background-color: #FF6565;
+}
+
+#u3191-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	position: relative;
+}
+
+#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136,#u3159,#u3188,#u2893,#u2894
 {
 	background-color: transparent;
 	position: relative;
