@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00000C;
-	background-color: #9EFF7C;
+	color: #000017;
+	background-color: #CB58A7;
 }
 
 .html
@@ -784,20 +784,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3162.MuseMenuActive #u3163-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 66px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136,#u3159,#u3188
-{
-	width: 125px;
-}
-
 #u3189
 {
 	width: 123px;
@@ -812,14 +798,63 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3189.MuseMenuActive
+#u3191-4
+{
+	width: 66px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+	left: 24px;
+}
+
+#u3162.MuseMenuActive #u3163-4,#u3189:hover #u3191-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 66px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3189.MuseMenuActive #u3191-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 66px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136,#u3159,#u3188,#u3216
+{
+	width: 125px;
+}
+
+#u3219
+{
+	width: 123px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u3189.MuseMenuActive,#u3219:hover
 {
 	width: 123px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3191-4
+#u3219.MuseMenuActive
+{
+	width: 123px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3221-4
 {
 	width: 94px;
 	min-height: 13px;
@@ -831,7 +866,7 @@
 	left: 10px;
 }
 
-#u3189:hover #u3191-4
+#u3219:hover #u3221-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -840,7 +875,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3189.MuseMenuActive #u3191-4
+#u3219.MuseMenuActive #u3221-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -930,7 +965,7 @@
 
 #u835-4
 {
-	z-index: 134;
+	z-index: 140;
 	width: 604px;
 	min-height: 49px;
 	background-color: transparent;
@@ -1015,7 +1050,7 @@
 
 #u1890-4
 {
-	z-index: 139;
+	z-index: 145;
 	width: 525px;
 	min-height: 35px;
 	background-color: transparent;
@@ -1034,7 +1069,7 @@
 
 #u837
 {
-	z-index: 138;
+	z-index: 144;
 	width: 458px;
 	min-height: 450px;
 	border-style: none;
@@ -1046,7 +1081,7 @@
 
 #u2453
 {
-	z-index: 143;
+	z-index: 149;
 	width: 458px;
 	min-height: 450px;
 	border-style: none;
@@ -1066,7 +1101,7 @@
 
 #u2856-4
 {
-	z-index: 144;
+	z-index: 150;
 	width: 185px;
 	min-height: 170px;
 	background-color: transparent;

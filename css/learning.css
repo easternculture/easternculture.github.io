@@ -1,7 +1,7 @@
 .version.learning /* version checker */
 {
-	color: #000019;
-	background-color: #5F230C;
+	color: #000012;
+	background-color: #52B2C8;
 }
 
 .html
@@ -795,20 +795,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3174.MuseMenuActive #u3175-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 66px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202
-{
-	width: 125px;
-}
-
 #u3205
 {
 	width: 123px;
@@ -823,14 +809,63 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3205.MuseMenuActive
+#u3207-4
+{
+	width: 66px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+	left: 24px;
+}
+
+#u3174.MuseMenuActive #u3175-4,#u3205:hover #u3207-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 66px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3205.MuseMenuActive #u3207-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 66px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202,#u3230
+{
+	width: 125px;
+}
+
+#u3231
+{
+	width: 123px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u3205.MuseMenuActive,#u3231:hover
 {
 	width: 123px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3207-4
+#u3231.MuseMenuActive
+{
+	width: 123px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3234-4
 {
 	width: 94px;
 	min-height: 13px;
@@ -842,7 +877,7 @@
 	left: 10px;
 }
 
-#u3205:hover #u3207-4
+#u3231:hover #u3234-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -851,7 +886,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3205.MuseMenuActive #u3207-4
+#u3231.MuseMenuActive #u3234-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -940,7 +975,7 @@
 
 #u981-4
 {
-	z-index: 216;
+	z-index: 222;
 	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
@@ -1025,7 +1060,7 @@
 
 #slideshowu673
 {
-	z-index: 137;
+	z-index: 143;
 	width: 0.01px;
 	height: 319px;
 	left: -16px;
@@ -1044,12 +1079,12 @@
 
 #u675popup
 {
-	z-index: 138;
+	z-index: 144;
 }
 
 #u1766
 {
-	z-index: 139;
+	z-index: 145;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -1067,7 +1102,7 @@
 
 #u2060
 {
-	z-index: 141;
+	z-index: 147;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -1085,7 +1120,7 @@
 
 #u2074
 {
-	z-index: 143;
+	z-index: 149;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -1131,7 +1166,7 @@
 
 #u689-3popup
 {
-	z-index: 145;
+	z-index: 151;
 }
 
 #u674-3
@@ -1166,7 +1201,7 @@
 
 #u674-3popup
 {
-	z-index: 148;
+	z-index: 154;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -1181,7 +1216,7 @@
 
 #u733-6
 {
-	z-index: 151;
+	z-index: 157;
 	width: 857px;
 	min-height: 64px;
 	background-color: transparent;
@@ -1198,7 +1233,7 @@
 
 #u745
 {
-	z-index: 200;
+	z-index: 206;
 	width: 910px;
 	height: 2px;
 	border-color: #000000;
@@ -1210,7 +1245,7 @@
 
 #u746-4
 {
-	z-index: 194;
+	z-index: 200;
 	width: 604px;
 	min-height: 38px;
 	background-color: transparent;
@@ -1228,7 +1263,7 @@
 
 #u734
 {
-	z-index: 198;
+	z-index: 204;
 	width: 604px;
 	height: 246px;
 	border-color: #000000;
@@ -1240,7 +1275,7 @@
 
 #u831
 {
-	z-index: 199;
+	z-index: 205;
 	width: 292px;
 	height: 246px;
 	border-color: #000000;
@@ -1260,7 +1295,7 @@
 
 #u747-37
 {
-	z-index: 157;
+	z-index: 163;
 	width: 583px;
 	min-height: 460px;
 	background-color: transparent;
@@ -1270,7 +1305,7 @@
 
 #u748
 {
-	z-index: 201;
+	z-index: 207;
 	width: 291px;
 	border-width: 1px;
 	border-style: solid;
@@ -1285,7 +1320,7 @@
 
 #u829-14
 {
-	z-index: 202;
+	z-index: 208;
 	width: 236px;
 	min-height: 287px;
 	background-color: transparent;
@@ -1305,7 +1340,7 @@
 
 #u2854-4
 {
-	z-index: 220;
+	z-index: 226;
 	width: 185px;
 	min-height: 170px;
 	background-color: transparent;
@@ -1316,7 +1351,7 @@
 
 #u2846-6
 {
-	z-index: 130;
+	z-index: 136;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -1326,7 +1361,7 @@
 
 #u2847
 {
-	z-index: 136;
+	z-index: 142;
 	width: 170px;
 	min-height: 170px;
 	margin-right: -10000px;
