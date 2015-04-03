@@ -593,11 +593,6 @@
 	background-color: #FFA9A9;
 }
 
-#u2906.MuseMenuActive,#u2876.MuseMenuActive,#u2883.MuseMenuActive,#u2869.MuseMenuActive,#u3051.MuseMenuActive,#u3080.MuseMenuActive,#u3108.MuseMenuActive,#u3139.MuseMenuActive,#u3162.MuseMenuActive,#u3189.MuseMenuActive,#u3219.MuseMenuActive,#u3252.MuseMenuActive,#u3273.MuseMenuActive,#u3315.MuseMenuActive,#u3343.MuseMenuActive,#u3365.MuseMenuActive,#u3400.MuseMenuActive
-{
-	background-color: #FF6565;
-}
-
 #u3403-4
 {
 	background-color: transparent;
@@ -606,7 +601,34 @@
 	position: relative;
 }
 
-#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136,#u3159,#u3188,#u3216,#u3251,#u3272,#u3314,#u3342,#u3364,#u3399,#u2893,#u2894
+#u3430
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u3430:hover
+{
+	background-color: #FFA9A9;
+}
+
+#u2906.MuseMenuActive,#u2876.MuseMenuActive,#u2883.MuseMenuActive,#u2869.MuseMenuActive,#u3051.MuseMenuActive,#u3080.MuseMenuActive,#u3108.MuseMenuActive,#u3139.MuseMenuActive,#u3162.MuseMenuActive,#u3189.MuseMenuActive,#u3219.MuseMenuActive,#u3252.MuseMenuActive,#u3273.MuseMenuActive,#u3315.MuseMenuActive,#u3343.MuseMenuActive,#u3365.MuseMenuActive,#u3400.MuseMenuActive,#u3430.MuseMenuActive
+{
+	background-color: #FF6565;
+}
+
+#u3432-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	position: relative;
+}
+
+#u2875,#u2882,#u2868,#u3050,#u3079,#u3107,#u3136,#u3159,#u3188,#u3216,#u3251,#u3272,#u3314,#u3342,#u3364,#u3399,#u3427,#u2893,#u2894
 {
 	background-color: transparent;
 	position: relative;
