@@ -644,11 +644,6 @@
 	background-color: #FFA9A9;
 }
 
-#u2985.MuseMenuActive,#u3008.MuseMenuActive,#u3001.MuseMenuActive,#u3017.MuseMenuActive,#u3058.MuseMenuActive,#u3089.MuseMenuActive,#u3115.MuseMenuActive,#u3130.MuseMenuActive,#u3167.MuseMenuActive,#u3196.MuseMenuActive,#u3226.MuseMenuActive,#u3247.MuseMenuActive,#u3282.MuseMenuActive,#u3301.MuseMenuActive,#u3331.MuseMenuActive,#u3372.MuseMenuActive,#u3388.MuseMenuActive,#u3421.MuseMenuActive,#u3456.MuseMenuActive
-{
-	background-color: #FF6565;
-}
-
 #u3459-4
 {
 	background-color: transparent;
@@ -657,7 +652,34 @@
 	position: relative;
 }
 
-#u3007,#u3000,#u3014,#u3057,#u3086,#u3114,#u3129,#u3166,#u3195,#u3223,#u3244,#u3279,#u3300,#u3328,#u3371,#u3385,#u3420,#u3455,#u2958,#u2961
+#u3477
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u3477:hover
+{
+	background-color: #FFA9A9;
+}
+
+#u2985.MuseMenuActive,#u3008.MuseMenuActive,#u3001.MuseMenuActive,#u3017.MuseMenuActive,#u3058.MuseMenuActive,#u3089.MuseMenuActive,#u3115.MuseMenuActive,#u3130.MuseMenuActive,#u3167.MuseMenuActive,#u3196.MuseMenuActive,#u3226.MuseMenuActive,#u3247.MuseMenuActive,#u3282.MuseMenuActive,#u3301.MuseMenuActive,#u3331.MuseMenuActive,#u3372.MuseMenuActive,#u3388.MuseMenuActive,#u3421.MuseMenuActive,#u3456.MuseMenuActive,#u3477.MuseMenuActive
+{
+	background-color: #FF6565;
+}
+
+#u3480-4
+{
+	background-color: transparent;
+	font-size: 11px;
+	text-align: center;
+	position: relative;
+}
+
+#u3007,#u3000,#u3014,#u3057,#u3086,#u3114,#u3129,#u3166,#u3195,#u3223,#u3244,#u3279,#u3300,#u3328,#u3371,#u3385,#u3420,#u3455,#u3476,#u2958,#u2961
 {
 	background-color: transparent;
 	position: relative;
@@ -821,7 +843,7 @@
 	position: relative;
 }
 
-#u3034-73
+#u3034-77
 {
 	background-color: transparent;
 	font-size: 16px;
