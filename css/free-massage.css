@@ -1,7 +1,7 @@
 .version.free_massage /* version checker */
 {
-	color: #0000EF;
-	background-color: #9362B3;
+	color: #0000F0;
+	background-color: #DABB90;
 }
 
 .html
@@ -1591,20 +1591,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3807.MuseMenuActive #u3809-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 90px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202,#u3230,#u3258,#u3286,#u3307,#u3335,#u3357,#u3392,#u3413,#u3441,#u3469,#u3538,#u3559,#u3580,#u3608,#u3636,#u3664,#u3692,#u3720,#u3748,#u3776,#u3804,#u3832
-{
-	width: 128px;
-}
-
 #u3833
 {
 	width: 126px;
@@ -1619,40 +1605,80 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3833.MuseMenuActive
-{
-	width: 126px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u3836-4
 {
-	width: 118px;
+	width: 90px;
 	min-height: 13px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 2px;
+	left: 14px;
 }
 
-#u3833:hover #u3836-4
+#u3807.MuseMenuActive #u3809-4,#u3833:hover #u3836-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 118px;
+	width: 90px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3833.MuseMenuActive #u3836-4
+#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202,#u3230,#u3258,#u3286,#u3307,#u3335,#u3357,#u3392,#u3413,#u3441,#u3469,#u3538,#u3559,#u3580,#u3608,#u3636,#u3664,#u3692,#u3720,#u3748,#u3776,#u3804,#u3832,#u3867
+{
+	width: 128px;
+}
+
+#u3870
+{
+	width: 126px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u3833.MuseMenuActive,#u3870:hover
+{
+	width: 126px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3870.MuseMenuActive
+{
+	width: 126px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3871-4
+{
+	width: 90px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+	left: 14px;
+}
+
+#u3833.MuseMenuActive #u3836-4,#u3870:hover #u3871-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 118px;
+	width: 90px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3870.MuseMenuActive #u3871-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 90px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -1736,7 +1762,7 @@
 
 #u2481-4
 {
-	z-index: 269;
+	z-index: 275;
 	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
@@ -1821,7 +1847,7 @@
 
 #u2482-6
 {
-	z-index: 273;
+	z-index: 279;
 	width: 624px;
 	min-height: 37px;
 	border-style: none;
@@ -1834,7 +1860,7 @@
 
 #u2483
 {
-	z-index: 279;
+	z-index: 285;
 	width: 354px;
 	min-height: 100px;
 	border-width: 1px;
@@ -1856,7 +1882,7 @@
 
 #u2846-6
 {
-	z-index: 262;
+	z-index: 268;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -1865,7 +1891,7 @@
 
 #u2847
 {
-	z-index: 268;
+	z-index: 274;
 	width: 170px;
 	min-height: 170px;
 	margin-right: -10000px;
@@ -1874,7 +1900,7 @@
 
 #u2485-6
 {
-	z-index: 280;
+	z-index: 286;
 	width: 422px;
 	min-height: 24px;
 	background-color: transparent;

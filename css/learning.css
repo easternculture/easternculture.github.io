@@ -1,7 +1,7 @@
 .version.learning /* version checker */
 {
-	color: #0000EE;
-	background-color: #926FC0;
+	color: #0000F4;
+	background-color: #CC9FEE;
 }
 
 .html
@@ -1592,20 +1592,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3807.MuseMenuActive #u3809-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 90px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202,#u3230,#u3258,#u3286,#u3307,#u3335,#u3357,#u3392,#u3413,#u3441,#u3469,#u3538,#u3559,#u3580,#u3608,#u3636,#u3664,#u3692,#u3720,#u3748,#u3776,#u3804,#u3832
-{
-	width: 128px;
-}
-
 #u3833
 {
 	width: 126px;
@@ -1620,40 +1606,80 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3833.MuseMenuActive
-{
-	width: 126px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u3836-4
 {
-	width: 118px;
+	width: 90px;
 	min-height: 13px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 2px;
+	left: 14px;
 }
 
-#u3833:hover #u3836-4
+#u3807.MuseMenuActive #u3809-4,#u3833:hover #u3836-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 118px;
+	width: 90px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3833.MuseMenuActive #u3836-4
+#u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202,#u3230,#u3258,#u3286,#u3307,#u3335,#u3357,#u3392,#u3413,#u3441,#u3469,#u3538,#u3559,#u3580,#u3608,#u3636,#u3664,#u3692,#u3720,#u3748,#u3776,#u3804,#u3832,#u3867
+{
+	width: 128px;
+}
+
+#u3870
+{
+	width: 126px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u3833.MuseMenuActive,#u3870:hover
+{
+	width: 126px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3870.MuseMenuActive
+{
+	width: 126px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3871-4
+{
+	width: 90px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+	left: 14px;
+}
+
+#u3833.MuseMenuActive #u3836-4,#u3870:hover #u3871-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 118px;
+	width: 90px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3870.MuseMenuActive #u3871-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 90px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -1737,7 +1763,7 @@
 
 #u981-4
 {
-	z-index: 348;
+	z-index: 354;
 	width: 624px;
 	min-height: 49px;
 	background-color: transparent;
@@ -1822,7 +1848,7 @@
 
 #slideshowu673
 {
-	z-index: 269;
+	z-index: 275;
 	width: 0.01px;
 	height: 319px;
 	left: -16px;
@@ -1841,12 +1867,12 @@
 
 #u675popup
 {
-	z-index: 270;
+	z-index: 276;
 }
 
 #u1766
 {
-	z-index: 271;
+	z-index: 277;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -1864,7 +1890,7 @@
 
 #u2060
 {
-	z-index: 273;
+	z-index: 279;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -1882,7 +1908,7 @@
 
 #u2074
 {
-	z-index: 275;
+	z-index: 281;
 	width: 916px;
 	height: 319px;
 	border-style: none;
@@ -1928,7 +1954,7 @@
 
 #u689-3popup
 {
-	z-index: 277;
+	z-index: 283;
 }
 
 #u674-3
@@ -1963,7 +1989,7 @@
 
 #u674-3popup
 {
-	z-index: 280;
+	z-index: 286;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -1978,7 +2004,7 @@
 
 #u733-6
 {
-	z-index: 283;
+	z-index: 289;
 	width: 857px;
 	min-height: 64px;
 	background-color: transparent;
@@ -1995,7 +2021,7 @@
 
 #u745
 {
-	z-index: 332;
+	z-index: 338;
 	width: 910px;
 	height: 2px;
 	border-color: #000000;
@@ -2007,7 +2033,7 @@
 
 #u746-4
 {
-	z-index: 326;
+	z-index: 332;
 	width: 604px;
 	min-height: 38px;
 	background-color: transparent;
@@ -2025,7 +2051,7 @@
 
 #u734
 {
-	z-index: 330;
+	z-index: 336;
 	width: 604px;
 	height: 246px;
 	border-color: #000000;
@@ -2037,7 +2063,7 @@
 
 #u831
 {
-	z-index: 331;
+	z-index: 337;
 	width: 292px;
 	height: 246px;
 	border-color: #000000;
@@ -2057,7 +2083,7 @@
 
 #u747-37
 {
-	z-index: 289;
+	z-index: 295;
 	width: 583px;
 	min-height: 460px;
 	background-color: transparent;
@@ -2067,7 +2093,7 @@
 
 #u748
 {
-	z-index: 333;
+	z-index: 339;
 	width: 291px;
 	border-width: 1px;
 	border-style: solid;
@@ -2082,7 +2108,7 @@
 
 #u829-14
 {
-	z-index: 334;
+	z-index: 340;
 	width: 236px;
 	min-height: 287px;
 	background-color: transparent;
@@ -2102,7 +2128,7 @@
 
 #u2854-4
 {
-	z-index: 352;
+	z-index: 358;
 	width: 185px;
 	min-height: 170px;
 	background-color: transparent;
@@ -2113,7 +2139,7 @@
 
 #u2846-6
 {
-	z-index: 262;
+	z-index: 268;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -2123,7 +2149,7 @@
 
 #u2847
 {
-	z-index: 268;
+	z-index: 274;
 	width: 170px;
 	min-height: 170px;
 	margin-right: -10000px;

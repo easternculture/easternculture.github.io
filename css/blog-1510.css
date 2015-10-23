@@ -1,7 +1,7 @@
 .version.blog_1510 /* version checker */
 {
-	color: #000015;
-	background-color: #3CCE1E;
+	color: #00001B;
+	background-color: #1C9D2B;
 }
 
 .html
@@ -1591,20 +1591,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3812.MuseMenuActive #u3815-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 90px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u3007,#u3000,#u3014,#u3057,#u3086,#u3114,#u3129,#u3166,#u3195,#u3223,#u3244,#u3279,#u3300,#u3328,#u3371,#u3385,#u3420,#u3455,#u3476,#u3531,#u3566,#u3587,#u3615,#u3643,#u3671,#u3699,#u3727,#u3755,#u3783,#u3811,#u3839
-{
-	width: 128px;
-}
-
 #u3842
 {
 	width: 126px;
@@ -1619,14 +1605,63 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3842.MuseMenuActive
+#u3845-4
+{
+	width: 90px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 2px;
+	left: 14px;
+}
+
+#u3812.MuseMenuActive #u3815-4,#u3842:hover #u3845-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 90px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3842.MuseMenuActive #u3845-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 90px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3007,#u3000,#u3014,#u3057,#u3086,#u3114,#u3129,#u3166,#u3195,#u3223,#u3244,#u3279,#u3300,#u3328,#u3371,#u3385,#u3420,#u3455,#u3476,#u3531,#u3566,#u3587,#u3615,#u3643,#u3671,#u3699,#u3727,#u3755,#u3783,#u3811,#u3839,#u3860
+{
+	width: 128px;
+}
+
+#u3861
+{
+	width: 126px;
+	padding-bottom: 4px;
+	margin-right: -10000px;
+}
+
+#u3842.MuseMenuActive,#u3861:hover
 {
 	width: 126px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3845-4
+#u3861.MuseMenuActive
+{
+	width: 126px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3863-4
 {
 	width: 118px;
 	min-height: 13px;
@@ -1638,7 +1673,7 @@
 	left: 2px;
 }
 
-#u3842:hover #u3845-4
+#u3861:hover #u3863-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -1647,7 +1682,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3842.MuseMenuActive #u3845-4
+#u3861.MuseMenuActive #u3863-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -1736,7 +1771,7 @@
 
 #u3036-4
 {
-	z-index: 392;
+	z-index: 402;
 	width: 624px;
 	min-height: 49px;
 	margin-right: -10000px;
@@ -1818,7 +1853,7 @@
 
 #u3035
 {
-	z-index: 391;
+	z-index: 401;
 	width: 910px;
 	height: 2px;
 	margin-left: 22px;
@@ -1856,7 +1891,7 @@
 
 #u2943
 {
-	z-index: 265;
+	z-index: 271;
 	width: 170px;
 	min-height: 170px;
 	margin-right: -10000px;
@@ -1864,9 +1899,9 @@
 	left: 868px;
 }
 
-#u3034-125
+#u3034-129
 {
-	z-index: 266;
+	z-index: 272;
 	width: 236px;
 	min-height: 287px;
 	margin-right: -10000px;
@@ -1876,7 +1911,7 @@
 
 #u2947-6
 {
-	z-index: 396;
+	z-index: 406;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -1886,7 +1921,7 @@
 
 #u3212-81
 {
-	z-index: 402;
+	z-index: 412;
 	width: 583px;
 	min-height: 469px;
 	background-color: transparent;
