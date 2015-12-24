@@ -1,7 +1,7 @@
 .version.blog_1507 /* version checker */
 {
-	color: #00001A;
-	background-color: #32E626;
+	color: #000018;
+	background-color: #1D5C4C;
 }
 
 .html
@@ -53,20 +53,20 @@
 #u3025-4
 {
 	z-index: 26;
-	width: 390px;
+	width: 195px;
 	min-height: 61px;
 	margin-right: -10000px;
-	margin-top: 59px;
+	margin-top: 32px;
 	left: 122px;
 }
 
 #menuu2950
 {
 	z-index: 30;
-	width: 600px;
+	width: 677px;
 	margin-right: -10000px;
-	margin-top: 78px;
-	left: 512px;
+	margin-top: 72px;
+	left: 355px;
 }
 
 #u2972
@@ -96,13 +96,6 @@
 	margin: 0px;
 }
 
-#u2973.MuseMenuActive
-{
-	width: 74px;
-	min-height: 0px;
-	margin: 0px;
-}
-
 #u2975-4
 {
 	width: 53px;
@@ -122,15 +115,6 @@
 }
 
 #u2973:active #u2975-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 53px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2973.MuseMenuActive #u2975-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -337,12 +321,69 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u3912
+{
+	width: 75px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 317px;
+}
+
+#u3922
+{
+	width: 74px;
+	padding-bottom: 12px;
+}
+
+#u2973.MuseMenuActive,#u3922.MuseMenuActive
+{
+	width: 74px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u3923-4
+{
+	width: 53px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 6px;
+	left: 10px;
+}
+
+#u2973.MuseMenuActive #u2975-4,#u3922:hover #u3923-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 53px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3922:active #u3923-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 53px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3922.MuseMenuActive #u3923-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 53px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u2965
 {
 	width: 88px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 317px;
+	left: 394px;
 }
 
 #u2966
@@ -399,7 +440,7 @@
 	width: 86px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 407px;
+	left: 484px;
 }
 
 #u2994
@@ -453,7 +494,7 @@
 
 #u2997
 {
-	z-index: 70;
+	z-index: 76;
 	width: 14px;
 	height: 14px;
 	margin-right: -10000px;
@@ -1626,15 +1667,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u3842.MuseMenuActive #u3845-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 13px;
-	width: 90px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u3007,#u3000,#u3014,#u3057,#u3086,#u3114,#u3129,#u3166,#u3195,#u3223,#u3244,#u3279,#u3300,#u3328,#u3371,#u3385,#u3420,#u3455,#u3476,#u3531,#u3566,#u3587,#u3615,#u3643,#u3671,#u3699,#u3727,#u3755,#u3783,#u3811,#u3839,#u3860
 {
 	width: 128px;
@@ -1663,22 +1695,22 @@
 
 #u3863-4
 {
-	width: 118px;
+	width: 90px;
 	min-height: 13px;
 	padding-left: 2px;
 	padding-top: 4px;
 	padding-right: 2px;
 	margin-right: -10000px;
 	top: 2px;
-	left: 2px;
+	left: 14px;
 }
 
-#u3861:hover #u3863-4
+#u3842.MuseMenuActive #u3845-4,#u3861:hover #u3863-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 118px;
+	width: 90px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -1687,7 +1719,7 @@
 	padding-top: 4px;
 	padding-bottom: 0px;
 	min-height: 13px;
-	width: 118px;
+	width: 90px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -1696,7 +1728,7 @@
 	width: 105px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 495px;
+	left: 572px;
 }
 
 #u2961
@@ -1771,7 +1803,7 @@
 
 #u3036-4
 {
-	z-index: 402;
+	z-index: 408;
 	width: 624px;
 	min-height: 49px;
 	margin-right: -10000px;
@@ -1853,7 +1885,7 @@
 
 #u3035
 {
-	z-index: 401;
+	z-index: 407;
 	width: 910px;
 	height: 2px;
 	margin-left: 22px;
@@ -1891,7 +1923,7 @@
 
 #u2943
 {
-	z-index: 271;
+	z-index: 277;
 	width: 170px;
 	min-height: 170px;
 	margin-right: -10000px;
@@ -1901,7 +1933,7 @@
 
 #u3034-129
 {
-	z-index: 272;
+	z-index: 278;
 	width: 236px;
 	min-height: 287px;
 	margin-right: -10000px;
@@ -1911,7 +1943,7 @@
 
 #u2947-6
 {
-	z-index: 406;
+	z-index: 412;
 	width: 422px;
 	min-height: 24px;
 	margin-right: -10000px;
@@ -1921,7 +1953,7 @@
 
 #u3127-62
 {
-	z-index: 412;
+	z-index: 418;
 	width: 583px;
 	min-height: 469px;
 	background-color: transparent;
