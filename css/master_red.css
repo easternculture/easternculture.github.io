@@ -119,7 +119,7 @@
 #u2098
 {
 	border-color: #CCDB2A;
-	background: transparent url("../images/arrowmenudown-u2913-fr.png") no-repeat center center;
+	background: transparent url("../images/arrowmenudown-u2098-fr.png") no-repeat center center;
 }
 
 #u2100
@@ -246,7 +246,7 @@
 #u2291
 {
 	border-color: #CCDB2A;
-	background: transparent url("../images/arrowmenudown-u2913-fr.png") no-repeat center center;
+	background: transparent url("../images/arrowmenudown-u2098-fr.png") no-repeat center center;
 }
 
 #u2095.MuseMenuActive #u2098,#u2288.MuseMenuActive #u2291
@@ -972,7 +972,7 @@
 	left: 0px;
 	bottom: 0px;
 	right: 0px;
-	box-shadow: inset 0px 0px 15px rgba(9,9,9,0.5599999999999999), inset 0px 0px 15px rgba(9,9,9,0.5599999999999999);
+	box-shadow: inset 0px 0px 15px rgba(9,9,9,0.56), inset 0px 0px 15px rgba(9,9,9,0.56);
 }
 
 #u988
@@ -1058,7 +1058,7 @@
 	left: 0px;
 	bottom: 0px;
 	right: 0px;
-	box-shadow: inset 0px 0px 8px rgba(9,9,9,0.25999999999999995), inset 0px 0px 8px rgba(9,9,9,0.25999999999999995);
+	box-shadow: inset 0px 0px 8px rgba(9,9,9,0.26), inset 0px 0px 8px rgba(9,9,9,0.26);
 }
 
 

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="easternculturesc.com" resolutions="1x" timestamp="1461418749338">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="easternculturesc.com" resolutions="1x" timestamp="1461423974351">
   <folder name="css">
     <file name="site_global.css" crc="3817632920"/>
-    <file name="master_red.css" crc="359495323" ref="free-massage:dating:realty:massage:learning"/>
+    <file name="master_red.css" crc="58341694" ref="free-massage:dating:realty:massage:learning"/>
     <file name="master_green.css" crc="94696521" ref="contact:index"/>
     <file name="master_redblog.css" crc="3900286712" ref="blog-1511:blog:blog-1532:blog-1501:blog-1520:blog-1515:blog-1504:blog-1527:blog-1526:blog-1522:blog-1517:blog-1512:blog-1531:blog-1519:blog-1525:blog-1513:blog-1524:blog-1508:blog-1521:blog-1510:blog-1528:blog-1516:blog-1523:blog-1503:blog-1506:blog-1529:blog-1509:blog-1514:blog-1518:blog-1530:blog-1502:blog-1507:blog-1505"/>
     <file name="contact.css" crc="3773943441" ref="contact"/>
@@ -12,7 +12,7 @@
     <file name="blog-1520.css" crc="3837495016" ref="blog-1520"/>
     <file name="blog-1515.css" crc="4131025167" ref="blog-1515"/>
     <file name="blog-1504.css" crc="4259540938" ref="blog-1504"/>
-    <file name="free-massage.css" crc="4032556004" ref="free-massage"/>
+    <file name="free-massage.css" crc="422745379" ref="free-massage"/>
     <file name="blog-1527.css" crc="4107085588" ref="blog-1527"/>
     <file name="blog-1526.css" crc="155787294" ref="blog-1526"/>
     <file name="blog-1522.css" crc="419267341" ref="blog-1522"/>
@@ -22,18 +22,18 @@
     <file name="index.css" crc="508366784" ref="index"/>
     <file name="blog-1519.css" crc="4032748143" ref="blog-1519"/>
     <file name="blog-1525.css" crc="67951504" ref="blog-1525"/>
-    <file name="dating.css" crc="4191402295" ref="dating"/>
+    <file name="dating.css" crc="4157617493" ref="dating"/>
     <file name="blog-1513.css" crc="446795659" ref="blog-1513"/>
     <file name="blog-1524.css" crc="59035461" ref="blog-1524"/>
     <file name="blog-1508.css" crc="3879163588" ref="blog-1508"/>
     <file name="blog-1521.css" crc="3948667996" ref="blog-1521"/>
     <file name="blog-1510.css" crc="4273114556" ref="blog-1510"/>
-    <file name="realty.css" crc="3948259030" ref="realty"/>
+    <file name="realty.css" crc="157055495" ref="realty"/>
     <file name="blog-1528.css" crc="149897361" ref="blog-1528"/>
     <file name="blog-1516.css" crc="4117960244" ref="blog-1516"/>
     <file name="blog-1523.css" crc="3903149151" ref="blog-1523"/>
     <file name="blog-1503.css" crc="473870227" ref="blog-1503"/>
-    <file name="massage.css" crc="4192235919" ref="massage"/>
+    <file name="massage.css" crc="4131859108" ref="massage"/>
     <file name="blog-1506.css" crc="13807252" ref="blog-1506"/>
     <file name="blog-1529.css" crc="97654747" ref="blog-1529"/>
     <file name="blog-1509.css" crc="4009062193" ref="blog-1509"/>
@@ -41,7 +41,7 @@
     <file name="blog-1518.css" crc="4261352930" ref="blog-1518"/>
     <file name="blog-1530.css" crc="4134242946" ref="blog-1530"/>
     <file name="blog-1502.css" crc="89984922" ref="blog-1502"/>
-    <file name="learning.css" crc="4195260229" ref="learning"/>
+    <file name="learning.css" crc="149156784" ref="learning"/>
     <file name="blog-1507.css" crc="139396364" ref="blog-1507"/>
     <file name="blog-1505.css" crc="3891491647" ref="blog-1505"/>
   </folder>
@@ -61,8 +61,8 @@
     <file name="musewpdisclosure.js" crc="4234230767" ref="massage"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3885217645" ref="index"/>
-    <file name="arrowmenudown-u2913-fr.png" crc="195176102" ref="index:learning:blog"/>
+    <file name="favicon.ico" crc="3885217645" ref="index:learning"/>
+    <file name="arrowmenudown-u2913-fr.png" crc="195176102" ref="index:blog"/>
     <file name="u1003.png" crc="3805908892" ref="index:contact"/>
     <file name="u1003-r.png" crc="3811878585" ref="index:contact"/>
     <file name="u1005.png" crc="4200965809" ref="index:contact"/>
@@ -78,16 +78,16 @@
     <file name="lamps-lanterns-chinese-characters-photo-wallpaper-1680x1050.jpg" crc="3760901301" ref="index"/>
     <file name="tai-chi-tree-u1116-fr.jpg" crc="3762387575" ref="index"/>
     <file name="redwoods.jpg" crc="3959821988" ref="index"/>
-    <file name="u988.png" crc="307368234" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u988-r.png" crc="61589111" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u990.png" crc="4017188656" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u990-r.png" crc="326200485" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u992.png" crc="4103393042" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u992-r.png" crc="5307842" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u994.png" crc="141658410" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u994-r.png" crc="3811271433" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u996.png" crc="3946037649" ref="learning:massage:free-massage:dating:realty"/>
-    <file name="u996-r.png" crc="230143003" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u988.png" crc="4205980458" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u988-r.png" crc="444150268" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u990.png" crc="3899247750" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u990-r.png" crc="3789531145" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u992.png" crc="4094018472" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u992-r.png" crc="4204313314" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u994.png" crc="3862621404" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u994-r.png" crc="28592398" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u996.png" crc="4156502336" ref="learning:massage:free-massage:dating:realty"/>
+    <file name="u996-r.png" crc="308257503" ref="learning:massage:free-massage:dating:realty"/>
     <file name="lamps-lanterns-chinese-characters-photo-wallpaper-1680x1050-crop-u1975.jpg" crc="241662917" seo="true" ref="learning"/>
     <file name="blank.gif" crc="4208392903" ref="learning:dating"/>
     <file name="tia_chi_sunrise_by_whitewolf_ont_ca-d3cjgic-crop-u1963.jpg" crc="4216097226" seo="true" ref="learning"/>
@@ -126,17 +126,18 @@
     <file name="r750_438-5a1bb620d45454678b64cf9456f33195.jpg" crc="111979122" seo="true" ref="realty"/>
     <file name="r750_438-47d7bbd2dca5155efab096ed3c494ce9.jpg" crc="4043352001" seo="true" ref="realty"/>
     <file name="r750_438-6286e3706be6af6c35f4a4a0719317bd.jpg" crc="4189894835" seo="true" ref="realty"/>
+    <file name="arrowmenudown-u2098-fr.png" crc="195176102" ref="learning"/>
   </folder>
   <file name="index.html" crc="66892679" seo="true" mt="1450978781513" redirect="true"/>
-  <file name="learning.html" crc="273519121" seo="true" mt="1461418463672" redirect="true"/>
-  <file name="massage.html" crc="326951406" seo="true" mt="1461418463672" redirect="true"/>
+  <file name="learning.html" crc="3885980359" seo="true" mt="1461423935496" redirect="true"/>
+  <file name="massage.html" crc="456831720" seo="true" mt="1461423956639" redirect="true"/>
   <file name="contact.html" crc="338255836" seo="true" mt="1450978781513" redirect="true"/>
   <file name="blog.html" crc="260835196" seo="true" mt="1450978761413" redirect="true"/>
   <file name="blog-1501.html" crc="3846738505" seo="true" mt="1450978761413" redirect="true"/>
-  <file name="free-massage.html" crc="147099097" seo="true" mt="1461418694744" redirect="true"/>
+  <file name="free-massage.html" crc="4153904229" seo="true" mt="1461423935496" redirect="true"/>
   <file name="blog-1502.html" crc="3881063775" seo="true" mt="1450978761413" redirect="true"/>
   <file name="blog-1503.html" crc="356230216" seo="true" mt="1450978761413" redirect="true"/>
-  <file name="dating.html" crc="4121035536" seo="true" mt="1461418463672" redirect="true"/>
+  <file name="dating.html" crc="88166192" seo="true" mt="1461423935496" redirect="true"/>
   <file name="blog-1504.html" crc="4119074039" seo="true" mt="1450978761413" redirect="true"/>
   <file name="blog-1505.html" crc="3911848538" seo="true" mt="1450978761413" redirect="true"/>
   <file name="blog-1506.html" crc="145715588" seo="true" mt="1450978761413" redirect="true"/>
@@ -166,5 +167,5 @@
   <file name="blog-1530.html" crc="93432814" seo="true" mt="1450978761413" redirect="true"/>
   <file name="blog-1531.html" crc="4158642699" seo="true" mt="1450978761413" redirect="true"/>
   <file name="blog-1532.html" crc="4280127542" seo="true" mt="1450978761413" redirect="true"/>
-  <file name="realty.html" crc="3773295331" seo="true" mt="1461418463672" redirect="true"/>
+  <file name="realty.html" crc="243692163" seo="true" mt="1461423935496" redirect="true"/>
 </manifest>
