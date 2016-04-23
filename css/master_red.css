@@ -8,7 +8,6 @@
 {
 	border-color: #000000;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u1721-4
@@ -19,7 +18,6 @@
 	text-align: left;
 	font-family: righteous, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2102
@@ -27,13 +25,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 	border-width: 0px 1px 0px 0px;
 }
 
 #u2103-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -41,7 +38,6 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2102:hover #u2103-4 p
@@ -61,13 +57,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 	border-width: 0px 1px 0px 0px;
 }
 
 #u2091-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -75,7 +70,6 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2090:hover #u2091-4 p
@@ -95,13 +89,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 	border-width: 0px 1px 0px 0px;
 }
 
 #u2096-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -109,7 +102,6 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2095:hover #u2096-4 p
@@ -127,23 +119,20 @@
 #u2098
 {
 	border-color: #CCDB2A;
-	position: relative;
 	background: transparent url("../images/arrowmenudown-u2913-fr.png") no-repeat center center;
 }
 
 #u2100
 {
 	background-color: #CCDB2A;
-	position: relative;
 }
 
 #u2464
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u2464:hover
@@ -156,7 +145,6 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3908
@@ -164,13 +152,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 	border-width: 0px 1px 0px 0px;
 }
 
 #u3909-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -178,7 +165,6 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u3908:hover #u3909-4 p
@@ -198,13 +184,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 	border-width: 0px 1px 0px 0px;
 }
 
 #u2753-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -212,7 +197,6 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2750:hover #u2753-4 p
@@ -232,13 +216,12 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	position: relative;
 	border-width: 0px 1px 0px 0px;
 }
 
 #u2290-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -246,7 +229,6 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2288:hover #u2290-4 p
@@ -264,7 +246,6 @@
 #u2291
 {
 	border-color: #CCDB2A;
-	position: relative;
 	background: transparent url("../images/arrowmenudown-u2913-fr.png") no-repeat center center;
 }
 
@@ -274,15 +255,9 @@
 	background-position: center center;
 }
 
-#u2099,#u2286
+#u2101,#u2087,#u2094,#u2099,#u2463,#u3898,#u2740,#u2285,#u2286,#u2287
 {
 	background-color: transparent;
-}
-
-#u2101,#u2087,#u2094,#u2463,#u3898,#u2740,#u2285,#u2287
-{
-	background-color: transparent;
-	position: relative;
 }
 
 #u2100:hover,#u2287:hover
@@ -292,11 +267,10 @@
 
 #u2439
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u2439:hover
@@ -309,16 +283,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u2576
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u2576:hover
@@ -331,16 +303,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u2608
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u2608:hover
@@ -353,16 +323,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3046
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3046:hover
@@ -375,16 +343,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3073
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3073:hover
@@ -397,16 +363,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3101
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3101:hover
@@ -419,16 +383,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3146
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3146:hover
@@ -441,16 +403,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3174
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3174:hover
@@ -463,16 +423,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3205
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3205:hover
@@ -485,16 +443,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3231
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3231:hover
@@ -507,16 +463,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3261
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3261:hover
@@ -529,16 +483,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3287
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3287:hover
@@ -551,16 +503,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3310
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3310:hover
@@ -573,16 +523,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3336
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3336:hover
@@ -595,16 +543,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3358
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3358:hover
@@ -617,16 +563,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3395
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3395:hover
@@ -639,16 +583,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3414
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3414:hover
@@ -661,16 +603,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3444
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3444:hover
@@ -683,16 +623,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3472
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3472:hover
@@ -705,16 +643,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3539
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3539:hover
@@ -727,16 +663,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3560
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3560:hover
@@ -749,16 +683,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3581
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3581:hover
@@ -771,16 +703,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3611
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3611:hover
@@ -793,16 +723,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3637
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3637:hover
@@ -815,16 +743,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3665
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3665:hover
@@ -837,16 +763,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3695
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3695:hover
@@ -859,16 +783,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3721
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3721:hover
@@ -881,16 +803,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3749
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3749:hover
@@ -903,16 +823,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3779
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3779:hover
@@ -925,16 +843,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3807
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3807:hover
@@ -947,16 +863,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3833
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3833:hover
@@ -969,16 +883,14 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u3870
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #777777;
 	background-color: #FFFFFF;
-	position: relative;
 }
 
 #u3870:hover
@@ -996,18 +908,16 @@
 	background-color: transparent;
 	font-size: 11px;
 	text-align: center;
-	position: relative;
 }
 
 #u2438,#u2575,#u2607,#u3043,#u3072,#u3100,#u3143,#u3173,#u3202,#u3230,#u3258,#u3286,#u3307,#u3335,#u3357,#u3392,#u3413,#u3441,#u3469,#u3538,#u3559,#u3580,#u3608,#u3636,#u3664,#u3692,#u3720,#u3748,#u3776,#u3804,#u3832,#u3867,#u2108,#u2111
 {
 	background-color: transparent;
-	position: relative;
 }
 
 #u2113-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	color: #262626;
@@ -1015,12 +925,11 @@
 	text-align: center;
 	font-family: questrial, sans-serif;
 	font-weight: 400;
-	position: relative;
 }
 
 #u2102.MuseMenuActive #u2103-4,#u2090.MuseMenuActive #u2091-4,#u2095.MuseMenuActive #u2096-4,#u3908.MuseMenuActive #u3909-4,#u2750.MuseMenuActive #u2753-4,#u2288.MuseMenuActive #u2290-4,#u2111.MuseMenuActive #u2113-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 }
 
@@ -1059,87 +968,79 @@
 	content: "";
 	position: absolute;
 	pointer-events: none;
-	box-shadow: inset 0px 0px 15px rgba(9,9,9,0.56), inset 0px 0px 15px rgba(9,9,9,0.56);
-}
-
-#u86_align_to_page
-{
-	position: relative;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 15px rgba(9,9,9,0.5599999999999999), inset 0px 0px 15px rgba(9,9,9,0.5599999999999999);
 }
 
 #u988
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u988.png") no-repeat 0px 0px;
+	background: transparent url("../images/u988.png") no-repeat 0px 0px;
 }
 
 #u988:hover
 {
-	background: url("../images/u988-r.png") no-repeat 2px 2px;
+	background: transparent url("../images/u988-r.png") no-repeat 2px 2px;
 }
 
 #u990
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u990.png") no-repeat 0px 0px;
+	background: transparent url("../images/u990.png") no-repeat 0px 0px;
 }
 
 #u990:hover
 {
-	background: url("../images/u990-r.png") no-repeat 2px 2px;
+	background: transparent url("../images/u990-r.png") no-repeat 2px 2px;
 }
 
 #u992
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u992.png") no-repeat 0px 0px;
+	background: transparent url("../images/u992.png") no-repeat 0px 0px;
 }
 
 #u992:hover
 {
-	background: url("../images/u992-r.png") no-repeat 2px 2px;
+	background: transparent url("../images/u992-r.png") no-repeat 2px 2px;
 }
 
 #u994
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u994.png") no-repeat 0px 0px;
+	background: transparent url("../images/u994.png") no-repeat 0px 0px;
 }
 
 #u994:hover
 {
-	background: url("../images/u994-r.png") no-repeat 2px 2px;
+	background: transparent url("../images/u994-r.png") no-repeat 2px 2px;
 }
 
 #u996
 {
 	vertical-align: top;
-	position: relative;
-	background: url("../images/u996.png") no-repeat 0px 0px;
+	background: transparent url("../images/u996.png") no-repeat 0px 0px;
 }
 
 #u996:hover
 {
-	background: url("../images/u996-r.png") no-repeat 2px 2px;
+	background: transparent url("../images/u996-r.png") no-repeat 2px 2px;
 }
 
 #u2846-6
 {
 	background-color: transparent;
 	text-align: center;
-	position: relative;
 }
 
 #menuu2086,#u2847
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
 }
 
 #u547
@@ -1153,6 +1054,11 @@
 	content: "";
 	position: absolute;
 	pointer-events: none;
-	box-shadow: inset 0px 0px 8px rgba(9,9,9,0.26), inset 0px 0px 8px rgba(9,9,9,0.26);
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	box-shadow: inset 0px 0px 8px rgba(9,9,9,0.25999999999999995), inset 0px 0px 8px rgba(9,9,9,0.25999999999999995);
 }
+
 
