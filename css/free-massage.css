@@ -1,7 +1,7 @@
 .version.free_massage /* version checker */
 {
-	color: #000019;
-	background-color: #329523;
+	color: #0000FA;
+	background-color: #3FC9C3;
 }
 
 #muse_css_mq
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -178px;
-	margin-bottom: -172px;
+	margin-bottom: -20px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -2030,8 +2030,8 @@
 #u2847
 {
 	z-index: 280;
-	width: 320px;
-	min-height: 170px;
+	width: 156px;
+	min-height: 161px;
 	position: relative;
 	margin-right: -10000px;
 	left: 521px;
@@ -2046,7 +2046,7 @@
 #u547-bw
 {
 	z-index: 7;
-	margin-top: 21px;
+	margin-top: 19px;
 	height: 21px;
 }
 
