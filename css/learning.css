@@ -1,7 +1,7 @@
 .version.learning /* version checker */
 {
-	color: #000010;
-	background-color: #343196;
+	color: #0000E7;
+	background-color: #8C0B37;
 }
 
 #muse_css_mq
@@ -2067,8 +2067,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	color: #999999;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 135px;
 	background: transparent url("../images/arrow_left.png") no-repeat center center;
@@ -2101,8 +2101,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	color: #999999;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 130px;
 	left: 961px;

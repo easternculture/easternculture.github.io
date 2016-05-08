@@ -1,7 +1,7 @@
 .version.blog_1517 /* version checker */
 {
-	color: #000000;
-	background-color: #1F927E;
+	color: #00000D;
+	background-color: #ECC8DE;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1479.8499999999985px;
+	min-height: 1479.849999999998px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #4D0FC0;
+	color: #000009;
+	background-color: #F60752;
 }
 
 #page
@@ -59,7 +59,7 @@
 #menuu2857
 {
 	z-index: 31;
-	width: 714px;
+	width: 677px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 46px;
@@ -95,13 +95,6 @@
 	margin: 0px;
 }
 
-#u2915.MuseMenuActive
-{
-	width: 74px;
-	min-height: 0px;
-	margin: 0px;
-}
-
 #u2917-4
 {
 	width: 53px;
@@ -122,15 +115,6 @@
 }
 
 #u2915:active #u2917-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 53px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2915.MuseMenuActive #u2917-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -350,7 +334,7 @@
 
 #u3926
 {
-	width: 112px;
+	width: 75px;
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
@@ -359,21 +343,21 @@
 
 #u3927
 {
-	width: 111px;
+	width: 74px;
 	padding-bottom: 12px;
 	position: relative;
 }
 
-#u3927.MuseMenuActive
+#u2915.MuseMenuActive,#u3927.MuseMenuActive
 {
-	width: 111px;
+	width: 74px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u3928-4
 {
-	width: 90px;
+	width: 53px;
 	min-height: 22px;
 	position: relative;
 	margin-right: -10000px;
@@ -381,12 +365,12 @@
 	left: 10px;
 }
 
-#u3927:hover #u3928-4
+#u2915.MuseMenuActive #u2917-4,#u3927:hover #u3928-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 90px;
+	width: 53px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -395,7 +379,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 90px;
+	width: 53px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -404,7 +388,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 90px;
+	width: 53px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -414,7 +398,7 @@
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
-	left: 431px;
+	left: 394px;
 }
 
 #u2861
@@ -474,7 +458,7 @@
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
-	left: 521px;
+	left: 484px;
 }
 
 #u2889
@@ -1832,7 +1816,7 @@
 	min-height: 34px;
 	position: relative;
 	margin-right: -10000px;
-	left: 609px;
+	left: 572px;
 }
 
 #u2894
