@@ -1,7 +1,7 @@
 .version.massage /* version checker */
 {
-	color: #00000E;
-	background-color: #AC7385;
+	color: #0000E5;
+	background-color: #BBA9CA;
 }
 
 #muse_css_mq
@@ -2297,6 +2297,14 @@
 	margin: 0px;
 }
 
+.ie #u1092.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
 #u1092:hover::before,#u1092:active::before,#u1092.PamphletThumbSelected::before
 {
 	content: "";
@@ -2308,14 +2316,6 @@
 	left: 0px;
 	border-radius: 10px;
 	box-shadow: none;
-}
-
-.ie #u1092.PamphletThumbSelected
-{
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
 }
 
 #u1073
@@ -2747,39 +2747,6 @@
 	position: relative;
 }
 
-#u5599-8
-{
-	z-index: 428;
-	width: 800px;
-	min-height: 76px;
-	-pie-box-shadow: 6px 6px 8px #7F7F7F;
-	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #B0F8FF;
-	font-size: 28px;
-	text-align: center;
-	margin-left: 80px;
-	top: -66px;
-	margin-bottom: -66px;
-	position: relative;
-}
-
-#u5599-4
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u5599-4 span /* line-height set on spans of mixed font sized paras */
-{
-	line-height: 1.2;
-}
-
-#u5599-2
-{
-	font-size: 10px;
-}
-
 #u1139-4
 {
 	z-index: 339;
@@ -2788,7 +2755,7 @@
 	background-color: transparent;
 	color: #FF0000;
 	margin-left: 22px;
-	margin-top: 16px;
+	margin-top: 26px;
 	position: relative;
 }
 
@@ -3474,7 +3441,7 @@
 
 #u6069-3
 {
-	z-index: 436;
+	z-index: 428;
 	width: 1px;
 	min-height: 7px;
 	background-color: transparent;
@@ -3499,7 +3466,7 @@
 	position: relative;
 }
 
-#u5596-6::before,#u5599-8::before,#u2045-6::before
+#u5596-6::before,#u2045-6::before
 {
 	content: "";
 	position: absolute;
