@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="easternculturesc.com" resolutions="1x" timestamp="1462893338685">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="easternculturesc.com" resolutions="1x" timestamp="1462974650837">
   <folder name="css">
     <file name="site_global.css" crc="3817632920"/>
     <file name="master_red.css" crc="58341694" ref="free-massage:dating:realty:massage:learning:specials"/>
@@ -33,7 +33,7 @@
     <file name="blog-1516.css" crc="4169157780" ref="blog-1516"/>
     <file name="blog-1523.css" crc="4050488974" ref="blog-1523"/>
     <file name="blog-1503.css" crc="473870227" ref="blog-1503"/>
-    <file name="massage.css" crc="3854281162" ref="massage"/>
+    <file name="massage.css" crc="191067806" ref="massage"/>
     <file name="blog-1506.css" crc="220329012" ref="blog-1506"/>
     <file name="blog-1529.css" crc="471518474" ref="blog-1529"/>
     <file name="blog-1509.css" crc="4009062193" ref="blog-1509"/>
@@ -62,7 +62,7 @@
     <file name="musewpdisclosure.js" crc="4234230767" ref="massage:specials"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3885217645" ref="index:learning"/>
+    <file name="favicon.ico" crc="3885217645" ref="index:learning:massage"/>
     <file name="arrowmenudown-u2913-fr.png" crc="195176102" ref="index:blog"/>
     <file name="u1003.png" crc="4077398074" ref="index:contact"/>
     <file name="u1003-r.png" crc="4186918022" ref="index:contact"/>
@@ -127,11 +127,11 @@
     <file name="r750_438-5a1bb620d45454678b64cf9456f33195.jpg" crc="111979122" seo="true" ref="realty"/>
     <file name="r750_438-47d7bbd2dca5155efab096ed3c494ce9.jpg" crc="4043352001" seo="true" ref="realty"/>
     <file name="r750_438-6286e3706be6af6c35f4a4a0719317bd.jpg" crc="4189894835" seo="true" ref="realty"/>
-    <file name="arrowmenudown-u2098-fr.png" crc="195176102" ref="learning"/>
+    <file name="arrowmenudown-u2098-fr.png" crc="195176102" ref="learning:massage"/>
   </folder>
   <file name="index.html" crc="4156464840" seo="true" mt="1462729484776" redirect="true"/>
   <file name="learning.html" crc="384481752" seo="true" mt="1462893300764" redirect="true"/>
-  <file name="massage.html" crc="3868069634" seo="true" mt="1462893317660" redirect="true"/>
+  <file name="massage.html" crc="4146814397" seo="true" mt="1462974628503" redirect="true"/>
   <file name="contact.html" crc="40082135" seo="true" mt="1462729484776" redirect="true"/>
   <file name="blog.html" crc="4175317153" seo="true" mt="1462729484912" redirect="true"/>
   <file name="blog-1501.html" crc="40677297" seo="true" mt="1462729484912" redirect="true"/>
